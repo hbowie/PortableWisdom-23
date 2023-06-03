@@ -1,0 +1,45 @@
+Title:  Core Design Principles for the Efficacy of Groups
+
+AKA:    CDPs
+
+Seq:    1.3
+
+Level:  3 - Chapter
+
+Entry Type: model
+
+Index:  Wilson, David Sloan; Ostrom, Elinor; Core Design Principles for the Efficacy of Groups; CDPs; 
+
+Timestamp: 20230530183455
+
+Image Name: diagram
+
+Image Credit: Dustin Eirdosh and Susan Hanisch, adapted from Atkins et al. 2019
+
+Image Credit Link: https://www.researchgate.net/figure/Core-Design-Principles-for-the-Cooperation-of-Groups-adapted-from-Atkins-et-al-2019_fig1_340206914
+
+Body:
+
+These are eight principles that, when followed, improve the effectiveness of human groups.
+
+And when we use the word "group," I take this to mean a group of humans deriving perceived benefit from a shared set of resources, working towards a common goal, with some unifying identity, and with established means of interaction.
+
+I originally encountered these principles in [David Sloan Wilson][wilson]'s book, *[This View of Life][tvol].* If you'd like another description of these principles that is freely available on the web, you can refer to this [PDF](https://evolution-institute.org/wp-content/uploads/2018/10/Generalizing-the-Core.pdf) of an article originally published in the *Journal of Economic Behavior & Organization*. 
+
+[Elinor Ostrom][lin] won a Nobel Prize for her work in this area. These principles were based -- not on abstract or aspirational ideas about how such groups *should* work, or reasons why they *could not possibly work* -- but on actual observation of the attributes of groups that *actually did work*.
+
+As soon as I read these, I recognized their significance, and the ways in which they supported and mirrored many of the principles of the [Agile software development][agile] movement, with which I was already familiar.  
+
+I believe these principles to be universal and scalable to groups of any size. 
+
+[agile]: https://en.wikipedia.org/wiki/Agile_software_development
+
+[lin]: https://en.wikipedia.org/wiki/Elinor_Ostrom
+
+[tvol]: https://www.penguinrandomhouse.com/books/246844/this-view-of-life-by-david-sloan-wilson/
+
+[wilson]: https://thisviewoflife.com/profile/david-sloan-wilson/
+
+Here, then, are the eight core design principles for the efficacy of groups. 
+
+

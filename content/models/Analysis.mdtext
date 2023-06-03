@@ -1,0 +1,13 @@
+Title:  Analysis
+
+Seq:    1.1.5
+
+Level:  4 - Subsection
+
+Entry Type: element
+
+Timestamp: 20230526195842
+
+Body:
+
+For improvement efforts conducted by humans, an analysis step must be introduced. Such an analysis would consider the desired [[functions]] to be performed, the associated [[performance measures]], alternative ways of performing those functions, and trade-offs between those alternatives. 

@@ -1,0 +1,23 @@
+Title:  Define the Thing's Function
+
+AKA:    function, functions
+
+Seq:    1.1.2
+
+Level:  4 - Subsection
+
+Entry Type: element
+
+Timestamp: 20230525214025
+
+Body:
+
+A [[type of thing]] must have some function that it performs within a particular [[operating environment]]. 
+
+That is, it must use some inputs and produce some outputs. 
+
+Some outputs we can identify as useful (in some sense), while others may be categorized as waste, and others may be damaging or destructive. 
+
+Often, amounts of these inputs and outputs can be quantified. 
+
+In order to improve something, we generally want to minimize the inputs required, minimize the waste and damaging output, and maximize the useful output.
