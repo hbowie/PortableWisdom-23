@@ -1,8 +1,8 @@
 Title:  Retention
 
-Seq:    1.1.10
+Seq:    1.10
 
-Level:  4 - Subsection
+Level:  2 - Element
 
 Entry Type: element
 
@@ -25,4 +25,3 @@ In order for things to continue to fulfill their functions, design attributes th
 ##### Words from Others on this Topic
 
 {:include-quote:Progress Depends on Retentiveness}
-

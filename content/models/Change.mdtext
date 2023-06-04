@@ -1,8 +1,8 @@
 Title:  Change
 
-Seq:    1.1.9
+Seq:    1.9
 
-Level:  4 - Subsection
+Level:  2 - Element
 
 Entry Type: element
 
@@ -17,4 +17,3 @@ In other words, we must introduce some variation.
 This will generally consist of some change to the [[type design]] of the thing.
 
 Note that a change can be accidental and made at random (as is the case with biological evolution), or it can be made based on some [[analysis]], with some forethought and anticipation of the consequences (as is generally the case with human design).
-

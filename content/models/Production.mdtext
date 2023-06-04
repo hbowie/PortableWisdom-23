@@ -2,9 +2,9 @@ Title:  Production
 
 AKA:    reproduction
 
-Seq:    1.1.11
+Seq:    1.11
 
-Level:  4 - Subsection
+Level:  2 - Element
 
 Entry Type: element
 
@@ -15,4 +15,3 @@ Body:
 After making [[changes]] to a [[type design]], more instances of the [[type of thing]] must be produced -- or reproduced, if you will -- in order to assess the [[performance]] of the changes. 
 
 We could think of the initial instances produced after some change to the type design as prototypes.
-
