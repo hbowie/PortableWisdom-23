@@ -1,0 +1,84 @@
+<?nextrec?>
+<?output "../../web/authors/=$author&f$=.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>Author: =$author$= | Portable Wisdom</title>
+	<meta name="description" content='Information about the author =$author$=' />
+<?include "../includes/head-links.html" ?>
+</head>
+<body>
+
+<?include "../includes/header.html" ?>
+
+	<nav id="main-nav">
+		<ul>
+			<li>
+				<a href="../quotes/index.html">
+					Quotes
+				</a>
+			</li>
+			<li>
+				<a href="../models/index.html">
+					Models
+				</a>
+			</li>
+			<li>
+				<a href="../songs/index.html">
+					Songs
+				</a>
+			</li>
+			<li>
+				<a href="../posts/index.html">
+					Posts
+				</a>
+			</li>
+			<li>
+				<a href="../topics/index.html">
+					Topics
+				</a>
+			</li>
+			<li class="nav-current">
+				<a href="../more.html">
+					More
+				</a>
+			</li>
+		</ul>
+	</nav>
+
+	<main>
+	
+		<p><em>Authors</em></p>
+
+		<h1>=$author$=</h1>
+
+<?if "=$author-info$=" ?>
+		<p>=$author-info$=</p>
+		
+<?endif?>
+<?if "=$author-years$=" ?>
+		<p>=$author-years$=</p>
+		
+<?endif?>
+<?if "=$author-link$=" ?>
+		<p>
+			<a href="=$author-link$=" class="ext-link" target="_blank" rel="noopener">
+				=$author-link$=
+			</a>
+		</p>
+		
+<?endif?>
+
+<?include "../includes-gen/quotes-for-=$author&f$=.html" ?>
+
+<?include "../includes/back-to-top.html" ?>
+
+	</main>
+
+<?include "../includes/footer.html" ?>
+
+</body>
+</html>
+<?loop?>

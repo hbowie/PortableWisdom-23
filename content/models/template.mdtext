@@ -4,7 +4,7 @@ AKA: <aka>
 
 Tags: <tags> 
 
-Seq: <seq> 
+Seq: <seq: x|n.|n > 
 
 Level: <level: 1 - Model; 2 - Element; 3 - Item; > 
 
@@ -12,23 +12,11 @@ Entry Type: <class:  element, item, model >
 
 Index: <index> 
 
-Author Info:  
-
-Author Years:  
-
 Author: <author> 
 
-Work Type: <worktype> 
+Author: <lookup: authors> 
 
-Work Rights:  
-
-Work Rights Holder:  
-
-Publisher:  
-
-Pub Date: <date> 
-
-Work ID:  
+Work Title: <lookup: works> 
 
 Link: <link> 
 
@@ -43,8 +31,6 @@ Image Caption:
 Image Credit:  
 
 Image Credit Link: <link> 
-
-Attribution: <attribution> 
 
 Body:  
 

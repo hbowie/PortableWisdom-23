@@ -1,0 +1,134 @@
+<?nextrec?>
+<?output "../../web/songs/=$title&f$=.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>Song: =$title$= | Portable Wisdom</title>
+	<meta name="description" content='The Song =$title$=' />
+<?include "../includes/head-links.html" ?>
+</head>
+<body>
+
+<?include "../includes/header.html" ?>
+
+	<nav id="main-nav">
+		<ul>
+			<li>
+				<a href="../quotes/index.html">
+					Quotes
+				</a>
+			</li>
+			<li>
+				<a href="../models/index.html">
+					Models
+				</a>
+			</li>
+			<li class="nav-current">
+				<a href="../songs/index.html">
+					Songs
+				</a>
+			</li>
+			<li>
+				<a href="../posts/index.html">
+					Posts
+				</a>
+			</li>
+			<li>
+				<a href="../topics/index.html">
+					Topics
+				</a>
+			</li>
+			<li>
+				<a href="../more.html">
+					More
+				</a>
+			</li>
+		</ul>
+	</nav>
+
+	<main>
+	
+		<p><em>Songs</em></p>
+
+		<h1>&#8220;=$title&h$=&#8221;</h1>
+	
+	<table class="song-table">
+	<tr class="song-row">
+	</tr>
+	<tr class="song-row">
+		<td>
+			<p class="song-info-label">
+				Songwriter(s):
+			</p>
+			<p class="song-info-value">
+				=$songwriters$=
+			</p>
+		</td>
+		<td>
+			<p class="song-info-label">
+				Year Written:
+			</p>
+			<p class="song-info-value">
+				=$date-of-song$=
+			</p>
+		</td>
+	</tr>
+	<tr class="song-row">
+		<td>
+			<p class="song-info-label">
+				Appreciation by:
+			</p>
+			<p class="song-info-value">
+				=$author-of-essay$=
+			</p>
+		</td>
+		<td>
+			<p class="song-info-label">
+				Appreciation written:
+			</p>
+			<p class="song-info-value">
+				=$date-of-essay$=
+			</p>
+		</td>
+	</tr>
+	<tr class="song-row">
+		<td>
+			<p class="song-info-label">
+				Topics:
+			</p>
+			<p class="song-info-value">
+				=$tags&ztopics.html#tags.;;;$=
+			</p>
+		</td>
+		<td>
+			<p class="song-info-label">
+				Minutes to Read:
+			</p>
+			<p class="song-info-value">
+				=$minutes-to-read$=
+			</p>
+		</td>
+	</tr>
+</table>
+
+<div class="lex-content">
+<?if "=$image-name$=" ?>
+<?copyfile "../../content/songs/files/=$imagename$=" "../../web/images/=$imagename&f$=" ?>
+<img class="song-image" src="=$relative$=images/=$image-name&f$=" alt="=$image-alt$=">
+<?endif?>
+=$body&w1o$=
+</div>
+
+<p class="line-spacer"> &nbsp; </p>
+
+=$apple-music-player$=
+	
+	</main>
+
+<?include "../includes/footer.html" ?>
+
+</body>
+</html>
+<?loop?>

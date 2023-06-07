@@ -1,0 +1,44 @@
+<?nextrec?>
+<?definegroup 1 "=$author$=" ?>
+<?ifendgroup 1 ?>
+<?endif?>
+<?ifnewgroup 1 ?>
+<?output "../includes-gen/quotes-for-=$author&f$=.html" ?>
+<h2>Notable Quotations from =$author$=</h2>
+
+<?endif?>
+		<hr />
+
+		<h3>=$title$=</h3>
+		
+		<p class="tags-align">=$tags&gtopics/;tag-link$=</p>
+
+		<blockquote>
+			=$body&o$=
+		</blockquote>
+
+<?if "=$knownworktitle$=" ?>
+		<p>From =$theworktypeslug$=
+<?if "=$worklink$=" ?>
+			<a href="=$worklink$=">
+<?endif?>
+<?if =$majorwork$= eq true ?>
+			<cite>=$worktitle$=</cite>
+<?else?>
+			&ldquo;=$worktitle$=&rdquo;
+<?endif?>
+<?if "=$worklink$=" ?>
+			</a>
+<?endif?>
+		</p>
+<?endif?>
+<?if "=$date$=" ?>
+		<p>&mdash; =$date$=</p>
+<?endif?>
+
+		<p class="perma-link">
+			<a href="../quotes/=$title&f$=.html">
+				Permalink for Quote
+			</a>
+		</p>
+<?loop?>

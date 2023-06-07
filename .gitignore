@@ -1,3 +1,5 @@
 - INFO-parent-realm.nnk
 .DS_Store
 *.bbprojectd
+factory/includes-gen/*
+web/fonts/*

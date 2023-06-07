@@ -1,0 +1,92 @@
+<?output "../../web/songs/index.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>List of Songs | Portable Wisdom</title>
+	<meta name="description" content="A List of Songs Described on Portable Wisdom" />
+<?include "../includes/head-links.html" ?>
+</head>
+<body>
+
+<?include "../includes/header.html" ?>
+
+	<nav id="main-nav">
+		<ul>
+			<li>
+				<a href="../quotes/index.html">
+					Quotes
+				</a>
+			</li>
+			<li>
+				<a href="../models/index.html">
+					Models
+				</a>
+			</li>
+			<li class="nav-current">
+				<a href="../songs/index.html">
+					Songs
+				</a>
+			</li>
+			<li>
+				<a href="../posts/index.html">
+					Posts
+				</a>
+			</li>
+			<li>
+				<a href="../topics/index.html">
+					Topics
+				</a>
+			</li>
+			<li>
+				<a href="../more.html">
+					More
+				</a>
+			</li>
+		</ul>
+	</nav>
+
+	<main>
+	
+		<p><em>Songs</em></p>
+
+		<h1>List of Songs</h1>
+
+		<div class="lex-content">
+
+<p>Click on one of the column headings to sort the table by that column; click again to sort in descending sequence. </p>
+
+<table id="songs-table">
+	<thead>
+		<tr>
+			<th onclick="sortTable(0)">Title of Song</th>
+			<th onclick="sortTable(1)">Year Written</th>
+			<th onclick="sortTable(2)">Songwriters</th>
+		</tr>
+	</thead>
+	<tbody>
+
+<?nextrec?>
+		<tr>
+			<td><a href="=$title&f$=.html">=$title&h$=</a></td>
+			<td>=$date-of-song$=</td>
+			<td>=$songwriters$=</td>
+		</tr>
+<?loop?>
+
+	</tbody>
+</table>
+
+</div> <!  end of lex-content div -->
+
+<?include "../includes/back-to-top.html" ?>
+
+	</main>
+
+<?include "../includes/footer.html" ?>
+
+    <script src="=$relative$=js/sort-songs.js"></script>
+</body>
+</html>
+

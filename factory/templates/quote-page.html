@@ -1,0 +1,93 @@
+<?nextrec?>
+<?output "../../web/quotes/=$title&f$=.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>Quote: =$title$= | Portable Wisdom</title>
+	<meta name="description" content='A Quotation from =$author$= concerning "=$title$="' />
+<?include "../includes/head-links.html" ?>
+</head>
+<body>
+
+<?include "../includes/header.html" ?>
+
+	<nav id="main-nav">
+		<ul>
+			<li class="nav-current">
+				<a href="../quotes/index.html">
+					Quotes
+				</a>
+			</li>
+			<li>
+				<a href="../models/index.html">
+					Models
+				</a>
+			</li>
+			<li>
+				<a href="../songs/index.html">
+					Songs
+				</a>
+			</li>
+			<li>
+				<a href="../posts/index.html">
+					Posts
+				</a>
+			</li>
+			<li>
+				<a href="../topics/index.html">
+					Topics
+				</a>
+			</li>
+			<li>
+				<a href="../more.html">
+					More
+				</a>
+			</li>
+		</ul>
+	</nav>
+
+	<main>
+	
+		<p><em>Quotes</em></p>
+
+		<h1>=$title$=</h1>
+
+		<p class="tags-align">=$tags&gtopics/;tag-link$=</p>
+
+		<blockquote>
+			=$body&o$=
+		</blockquote>
+
+		<p>&mdash; <a href="../authors/=$author&f$=.html">=$author&,$=</a>=$date&,$=</p>
+
+<?if "=$knownworktitle$=" ?>
+		<p>From =$theworktypeslug$=
+<?if "=$worklink$=" ?>
+			<a href="=$worklink$=">
+<?endif?>
+<?if =$majorwork$= eq true ?>
+			<cite>=$worktitle$=</cite>
+<?else?>
+			&ldquo;=$worktitle$=&rdquo;
+<?endif?>
+<?if "=$worklink$=" ?>
+			</a>
+<?endif?>
+		</p>
+<?endif?>
+
+<?if "=$work-rights-slug$="?>
+		<p>=$work-rights-slug$=</p>
+<?endif?>
+
+		<p style="text-align: right; "><em>(If you're open to chance, view a <a href="random.html">random quotation</a>.)</em></p> 
+
+	</main>
+
+<?include "../includes/footer.html" ?>
+
+</body>
+</html>
+<?loop?>
