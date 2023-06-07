@@ -3,3 +3,4 @@
 *.bbprojectd
 factory/includes-gen/*
 web/fonts/*
+temp_display.html
