@@ -1,0 +1,5 @@
+<?output "../meta/songs.txt"?>
+Seq	Type	Folder	Title	Date Added	Author	Content
+<?nextrec?>
+2	song	songs	=$title$=	=$date-added$=	=$songwriters$=	=$body&q$=
+<?loop?>

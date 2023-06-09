@@ -4,15 +4,13 @@ AKA: <aka>
 
 Tags: <tags> 
 
-Seq: <seq: x|n.|n > 
+Seq: <seq: x|n.|n> 
 
 Level: <level: 1 - Model; 2 - Element; 3 - Item; > 
 
 Entry Type: <class:  element, item, model > 
 
 Index: <index> 
-
-Author: <author> 
 
 Author: <lookup: authors> 
 
@@ -31,6 +29,8 @@ Image Caption:
 Image Credit:  
 
 Image Credit Link: <link> 
+
+Date Added: <dateadded> 
 
 Body:  
 

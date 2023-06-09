@@ -1,0 +1,42 @@
+<?output "../../web/topics/index.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>Portable Wisdom Topics</title>
+	<meta name="description" content="Portable Wisdom Topics" />
+<?include "../includes/head-links.html" ?>
+</head>
+<body>
+
+<?include "../includes/header.html" ?>
+
+<?include "../includes/nav-menu.html" ?>
+
+	<main>
+
+		<h1>Portable Wisdom Topics</h1>
+		
+		<ul class="tags-cloud">
+<?nextrec?>
+<?definegroup 1 "=$tag-file-name$=" ?>
+<?ifnewgroup 1 ?>
+			<li>
+				<a href="=$tagfilename$=">
+					=$tag$=
+				</a>
+			</li>
+<?endif?>
+<?loop?>
+		</ul>
+
+<?include "../includes/back-to-top.html" ?>
+
+	</main>
+
+<?include "../includes/footer.html" ?>
+
+</body>
+</html>
+

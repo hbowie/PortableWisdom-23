@@ -1,0 +1,84 @@
+Tag	Tag File Name	Seq	Folder	Title	Author
+Americana	americana.html	3	songs	Train to Birmingham	John Hiatt
+Christmas	christmas.html	3	songs	Christmas (Baby Please Come Home)	Ellie Greenwich, Jeff Barry and Phil Spector
+Christmas	christmas.html	3	songs	Christmas Song	Dave Matthews
+aging	aging.html	3	songs	Angel from Montgomery	John Prine
+aging	aging.html	3	songs	Train to Birmingham	John Hiatt
+art	art.html	3	songs	All Along The Watchtower	Bob Dylan
+art	art.html	3	songs	The Last Trip to Tulsa	Neil Young
+art	art.html	3	songs	Rain	John Lennon and Paul McCartney
+art	art.html	3	songs	Rosalita (Come Out Tonight)	Bruce Springsteen
+art	art.html	3	songs	School Day	Chuck Berry
+art	art.html	3	songs	Turn the Page	Bob Seger
+authority	authority.html	3	songs	For What It's Worth	Stephen Stills
+community	community.html	3	songs	King Harvest (Has Surely Come)	Robbie Robertson
+community	community.html	3	songs	Rosalita (Come Out Tonight)	Bruce Springsteen
+connection	connection.html	3	songs	Whenever Kindness Fails	Robert Earl Keen
+cowboys	cowboys.html	3	songs	Angel from Montgomery	John Prine
+cowboys	cowboys.html	3	songs	If I Had a Boat	Lyle Lovett
+cowboys	cowboys.html	3	songs	Whenever Kindness Fails	Robert Earl Keen
+death	death.html	3	songs	And When I Die	Laura Nyro
+death	death.html	3	songs	Box of Rain	Robert Hunter and Phil Lesh
+death	death.html	3	songs	Late For The Sky	Jackson Browne
+death	death.html	3	songs	Long Black Veil	Danny Dill and Marijohn Wilkin
+death	death.html	3	songs	Will the Circle be Unbroken	A.P. Carter
+depression	depression.html	3	songs	White Room	Jack Bruce and Pete Brown
+devil	devil.html	3	songs	Sympathy For The Devil	Keith Richards and Mick Jagger
+emotions	emotions.html	3	songs	For What It's Worth	Stephen Stills
+enchantment	enchantment.html	3	songs	Late For The Sky	Jackson Browne
+evil	evil.html	3	songs	Sympathy For The Devil	Keith Richards and Mick Jagger
+family	family.html	3	songs	I Don't Like Half The Folks I Love	Paul Thorn and Billy Maddox
+freedom	freedom.html	3	songs	Angel from Montgomery	John Prine
+freedom	freedom.html	3	songs	If I Had a Boat	Lyle Lovett
+god	god.html	3	songs	Quiet About It	Jesse Winchester
+god	god.html	3	songs	Sympathy For The Devil	Keith Richards and Mick Jagger
+home	home.html	3	songs	Train to Birmingham	John Hiatt
+humanism	humanism.html	3	songs	800 Pound Jesus	Billy Maddox and Paul Thorn
+humanism	humanism.html	3	songs	And When I Die	Laura Nyro
+humanism	humanism.html	3	songs	Box of Rain	Robert Hunter and Phil Lesh
+humanism	humanism.html	3	songs	Come On Up to the House	Tom Waits
+humanism	humanism.html	3	songs	Fruitcakes	Jimmy Buffett
+humanism	humanism.html	3	songs	Hallelujah	Leonard Cohen
+humanism	humanism.html	3	songs	Late For The Sky	Jackson Browne
+humanism	humanism.html	3	songs	The Village Green Preservation Society	Ray Davies
+humanism	humanism.html	3	songs	The Weight	Robbie Robertson
+humanism	humanism.html	3	songs	Will the Circle be Unbroken	A.P. Carter
+illusion	illusion.html	3	songs	Sympathy For The Devil	Keith Richards and Mick Jagger
+imperfection	imperfection.html	3	songs	Fruitcakes	Jimmy Buffett
+integrity	integrity.html	3	songs	The Last Trip to Tulsa	Neil Young
+liberation	liberation.html	3	songs	All Along The Watchtower	Bob Dylan
+liberation	liberation.html	3	songs	Education	Ray Davies
+liberation	liberation.html	3	songs	It's About Time	Dennis Wilson, Bob Burchman and Alan Jardine
+liberation	liberation.html	3	songs	King Harvest (Has Surely Come)	Robbie Robertson
+liberation	liberation.html	3	songs	Like A Rolling Stone	Bob Dylan
+liberation	liberation.html	3	songs	Rosalita (Come Out Tonight)	Bruce Springsteen
+liberation	liberation.html	3	songs	School Day	Chuck Berry
+life	life.html	3	songs	Box of Rain	Robert Hunter and Phil Lesh
+love	love.html	3	songs	Christmas Song	Dave Matthews
+love	love.html	3	songs	Hallelujah	Leonard Cohen
+love	love.html	3	songs	It's About Time	Dennis Wilson, Bob Burchman and Alan Jardine
+love	love.html	3	songs	Long Black Veil	Danny Dill and Marijohn Wilkin
+love	love.html	3	songs	Shady Grove	Traditional
+love	love.html	3	songs	Stringing Me Along	Jess Chambers
+mystery	mystery.html	3	songs	Come On Up to the House	Tom Waits
+nature	nature.html	3	songs	King Harvest (Has Surely Come)	Robbie Robertson
+parenthood	parenthood.html	3	songs	Will the Circle be Unbroken	A.P. Carter
+play	play.html	3	songs	Settin' the Woods on Fire	Fred Rose and Ed G. Nelson
+protest	protest.html	3	songs	For What It's Worth	Stephen Stills
+rain	rain.html	3	songs	Box of Rain	Robert Hunter and Phil Lesh
+rain	rain.html	3	songs	Come On In My Kitchen	Robert Johnson
+rain	rain.html	3	songs	Rain	John Lennon and Paul McCartney
+religion	religion.html	3	songs	800 Pound Jesus	Billy Maddox and Paul Thorn
+religion	religion.html	3	songs	Quiet About It	Jesse Winchester
+religion	religion.html	3	songs	The Weight	Robbie Robertson
+religion	religion.html	3	songs	Will the Circle be Unbroken	A.P. Carter
+religiosity	religiosity.html	3	songs	Come On Up to the House	Tom Waits
+remembrance	remembrance.html	3	songs	Girl From The North Country	Bob Dylan
+retention	retention.html	3	songs	The Village Green Preservation Society	Ray Davies
+separation	separation.html	3	songs	Christmas (Baby Please Come Home)	Ellie Greenwich, Jeff Barry and Phil Spector
+shelter	shelter.html	3	songs	Come On In My Kitchen	Robert Johnson
+sin	sin.html	3	songs	Long Black Veil	Danny Dill and Marijohn Wilkin
+society	society.html	3	songs	The Village Green Preservation Society	Ray Davies
+society	society.html	3	songs	Whenever Kindness Fails	Robert Earl Keen
+values	values.html	3	songs	All Along The Watchtower	Bob Dylan
+wonder	wonder.html	3	songs	Hallelujah	Leonard Cohen

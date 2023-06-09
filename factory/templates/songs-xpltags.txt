@@ -1,0 +1,5 @@
+<?output "../xpltags/songs.txt"?>
+Tag	Tag File Name	Seq	Folder	Title	Author
+<?nextrec?>
+=$tag$=	=$tag&f$=.html	3	songs	=$title$=	=$songwriters$=
+<?loop?>

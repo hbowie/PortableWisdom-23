@@ -1,0 +1,767 @@
+Tag	Tag File Name	Seq	Folder	Title	Author
+Design	design.html	3	quotes	A working simple system	John Gall
+Management	management.html	3	quotes	Cockpits with Instruments Controlled by Gremlins	Robert D. Austin
+Measurement	measurement.html	3	quotes	Cockpits with Instruments Controlled by Gremlins	Robert D. Austin
+Murder	murder.html	3	quotes	An Irreplaceable Compact	Edmund Crispin
+Project Management	project-management.html	3	quotes	Belief in Impossible Things	Tom DeMarco and Timothy Lister
+Software Development.Agility	software-development.agility.html	3	quotes	Rough consensus and running code	David D. Clark
+TecFiction	tecfiction.html	3	quotes	An Irreplaceable Compact	Edmund Crispin
+US Politics	us-politics.html	3	quotes	Bringing the worldview associated with sports-talk radio to politics	Jim Geraghty
+US Politics	us-politics.html	3	quotes	The post-materialist turn in global politics	Ezra Klein
+USA	usa.html	3	quotes	A Coke is a Coke	Andy Warhol
+USA	usa.html	3	quotes	The Credibility of a Comedian	Jon Stewart
+USA	usa.html	3	quotes	The Cult of Ignorance	Isaac Asimov
+USA	usa.html	3	quotes	Every Third American	H. L. Mencken
+USA	usa.html	3	quotes	The Extent of Freedom in All of its Dimensions	Anthony M. Kennedy
+USA	usa.html	3	quotes	Ism-mania	Robert Riskin
+USA	usa.html	3	quotes	The Makers of Things	Barack Obama
+art	art.html	3	quotes	Art and Spirit	Ken Wilber
+art	art.html	3	quotes	Art has to transform life itself	Lawrence Ferlinghetti
+art	art.html	3	quotes	Art is a Hammer	Bertolt Brecht
+art	art.html	3	quotes	Art is a lie that makes us realize truth	Pablo Picasso
+art	art.html	3	quotes	Art presents us with a window into the minds of these people	Genevieve von Petzinger
+art	art.html	3	quotes	Art, Science and Empire	William Blake
+art	art.html	3	quotes	Cinema was about revelation	Martin Scorsese
+art	art.html	3	quotes	Cockpits with Instruments Controlled by Gremlins	Robert D. Austin
+art	art.html	3	quotes	Couldn’t everyone’s life become a work of art?	Michel Foucault
+art	art.html	3	quotes	Critical Thinking Followed by Action	Dalai Lama
+art	art.html	3	quotes	Deeper convictions of the heart	Leonard Cohen
+art	art.html	3	quotes	Design is not Appearance	Milton Glaser
+art	art.html	3	quotes	The Divine Gift of Purely Nonsensical Speech and Action	Edmund Crispin
+art	art.html	3	quotes	The divine literatus	Walt Whitman
+art	art.html	3	quotes	Dreams Come True	John Updike
+art	art.html	3	quotes	Enemies of Art and Artist	Henry Miller
+art	art.html	3	quotes	Excitement from Art	Anthony Burgess
+art	art.html	3	quotes	God and Morality	Frans de Waal
+art	art.html	3	quotes	History as Postmodern Collage	Joe Boyd
+art	art.html	3	quotes	The Inner Life of the Artist	Edward Hopper
+art	art.html	3	quotes	Little I recognized as music	Joe Boyd
+art	art.html	3	quotes	The Loftiest and Purest Art	Walt Whitman
+art	art.html	3	quotes	A Long Conversation	Bruce Springsteen
+art	art.html	3	quotes	More Popular than Jesus	John Lennon
+art	art.html	3	quotes	The Mysterious	Albert Einstein
+art	art.html	3	quotes	Myth-Makers	Kurt Vonnegut
+art	art.html	3	quotes	Myths are stronger than anyone could have imagined	Yuval Noah Harari
+art	art.html	3	quotes	Never Knew Cocaine to Improve Anything	Joe Boyd
+art	art.html	3	quotes	Notation not to be confused with music itself	Winthrop Sargeant
+art	art.html	3	quotes	The only sensible procedure for a critic	W. H. Auden
+art	art.html	3	quotes	The original naiveté	Henri Matisse
+art	art.html	3	quotes	Our Reply to Violence	Leonard Bernstein
+art	art.html	3	quotes	The Power of Art	Wynton Marsalis
+art	art.html	3	quotes	Questioning one's habitual ways of seeing	Jenny Odell
+art	art.html	3	quotes	Records we made together in the sixties	Joe Boyd
+art	art.html	3	quotes	The Songs are my Lexicon	Bob Dylan
+art	art.html	3	quotes	Start with romance and build to a reality	Ray Bradbury
+art	art.html	3	quotes	The Tautness of this Resonant Connection	Herb Bowie
+art	art.html	3	quotes	That Magical Honeycomb of Words	Tom Robbins
+art	art.html	3	quotes	Time is no match for Toni Morrison	Barack Obama
+art	art.html	3	quotes	To see a world in a grain of sand	William Blake
+art	art.html	3	quotes	Unbelievable Heroes	John Rogers
+art	art.html	3	quotes	The Undisputed Sovereignty of the Human Being	Wynton Marsalis
+art	art.html	3	quotes	Vital and Significant Forms of Art	Raymond Chandler
+art	art.html	3	quotes	We All Derive From the Same Source	Henry Miller
+art	art.html	3	quotes	Why People Sing	Linda Ronstadt
+art	art.html	3	quotes	Words that are empowered that make your hair stand on end	Allen Ginsberg
+art	art.html	3	quotes	The world is failing precisely because	Richard Powers
+balance	balance.html	3	quotes	Balance is Required to Maintain Democracy	Wynton Marsalis
+balance	balance.html	3	quotes	A Completely Free Market	Yuval Noah Harari
+balance	balance.html	3	quotes	Consistency is the playground of dull minds	Yuval Noah Harari
+balance	balance.html	3	quotes	Continually debating people and never winning	Scott Adams
+balance	balance.html	3	quotes	Everything had nuance	Celeste Ng
+balance	balance.html	3	quotes	A foolish consistency	Ralph Waldo Emerson
+balance	balance.html	3	quotes	Fruitful tension	Trygve Throntveit
+balance	balance.html	3	quotes	Governments losing their ability to anticipate events	Edward Luce
+balance	balance.html	3	quotes	It is foolish to view realism and idealism as incompatible	John McCain
+balance	balance.html	3	quotes	The more they yearned for omnipotence	Ross MacDonald
+balance	balance.html	3	quotes	When Growth Becomes a Supreme Good	Yuval Noah Harari
+balance	balance.html	3	quotes	A Work Ethic Gone Mad	Matthew Stewart
+change	change.html	3	quotes	Change is the one constant when it comes to culture	Wade Davis
+communication	communication.html	3	quotes	The press is so powerful in its image-making role	Malcolm X
+connection	connection.html	3	quotes	The better angels of our nature	Abraham Lincoln
+connection	connection.html	3	quotes	By Gifts One Makes Slaves	Peter Freuchen
+connection	connection.html	3	quotes	The Challenge of Swing	Wynton Marsalis
+connection	connection.html	3	quotes	Crosscutting Alliances	Steven Levitsky and Daniel Ziblatt
+connection	connection.html	3	quotes	A diminishing sense of shared humanity	Brené Brown
+connection	connection.html	3	quotes	Discovering that I am Nobody	Josiah Royce
+connection	connection.html	3	quotes	An emotional poverty so bottomless	James Baldwin
+connection	connection.html	3	quotes	First they came...	Martin Niemöller
+connection	connection.html	3	quotes	Freedom of Expression in Business	Tom Peters and Robert H. Waterman Jr.
+connection	connection.html	3	quotes	Generosity Among the Rich	G. K. Chesterton
+connection	connection.html	3	quotes	Good Management is Like The Beatles	Steve Jobs
+connection	connection.html	3	quotes	The Half-Finished Heaven	Tomas Tranströmer
+connection	connection.html	3	quotes	Increase nurturance thoughout the life span	David Sloan Wilson
+connection	connection.html	3	quotes	Life is a series of daring adventures from a secure base	David Brooks
+connection	connection.html	3	quotes	Life is more like settling a sequence of villages	David Brooks
+connection	connection.html	3	quotes	Living in small groups has been baked into our psyches	David Sloan Wilson
+connection	connection.html	3	quotes	A Long Conversation	Bruce Springsteen
+connection	connection.html	3	quotes	Moral Sawdust	John Dickson Carr and Cecil Street
+connection	connection.html	3	quotes	No Philosophy of Family Life	David Brooks
+connection	connection.html	3	quotes	Nurturance is a master variable	David Sloan Wilson
+connection	connection.html	3	quotes	Only Connect	E. M. Forster
+connection	connection.html	3	quotes	The only thing that's constant there is other people	Jim Coan
+connection	connection.html	3	quotes	Peaceful ends through peaceful means	Martin Luther King Jr.
+connection	connection.html	3	quotes	People are finally finding out that the guy next door isn't a bad egg	Robert Riskin
+connection	connection.html	3	quotes	Practice kindness all day to everybody	Jack Kerouac
+connection	connection.html	3	quotes	Public morality	Robert B. Reich
+connection	connection.html	3	quotes	The Rainbow Bridge	E. M. Forster
+connection	connection.html	3	quotes	Records we made together in the sixties	Joe Boyd
+connection	connection.html	3	quotes	Selfish and contentious people will not cohere	Charles Darwin
+connection	connection.html	3	quotes	Single Garment of Destiny	Martin Luther King Jr.
+connection	connection.html	3	quotes	The Team, The Team, The Team	Bo Schembechler
+connection	connection.html	3	quotes	Think globally, act locally	Disputed
+connection	connection.html	3	quotes	The Third Place	Ray Oldenburg
+connection	connection.html	3	quotes	This dear fucked-up planet	Henry Miller
+connection	connection.html	3	quotes	To Give in the Same Measure	Albert Einstein
+connection	connection.html	3	quotes	The Web of Life	Ted Perry
+connection	connection.html	3	quotes	We must welcome the stranger	Bibi Bahrami
+connection	connection.html	3	quotes	We vastly underestimate the impact of our immediate environment on our behavior	Dave Mayer
+connection	connection.html	3	quotes	You have your position because of the events of history	Martin Luther King Jr.
+critical thinking	critical-thinking.html	3	quotes	Belief in Impossible Things	Tom DeMarco and Timothy Lister
+critical thinking	critical-thinking.html	3	quotes	Belief is the end of Observation	Milton Glaser
+critical thinking	critical-thinking.html	3	quotes	Capitalism as a Market Society	Yanis Varoufakis
+critical thinking	critical-thinking.html	3	quotes	The Celestial Teapot	Bertrand Russell
+critical thinking	critical-thinking.html	3	quotes	The Columbia Disaster	Dennis Stauffer
+critical thinking	critical-thinking.html	3	quotes	Confusion leads to understanding	Vishavjit Singh
+critical thinking	critical-thinking.html	3	quotes	Conventional Views	John Kenneth Galbraith
+critical thinking	critical-thinking.html	3	quotes	Cost of Education	Derek Bok
+critical thinking	critical-thinking.html	3	quotes	Critical Thinking Followed by Action	Dalai Lama
+critical thinking	critical-thinking.html	3	quotes	The Cult of Ignorance	Isaac Asimov
+critical thinking	critical-thinking.html	3	quotes	A Dark Procession	Margery Allingham
+critical thinking	critical-thinking.html	3	quotes	The Discomfort of Thought	John F. Kennedy
+critical thinking	critical-thinking.html	3	quotes	Easy Solutions	H. L. Mencken
+critical thinking	critical-thinking.html	3	quotes	Entertain a Thought	Aristotle
+critical thinking	critical-thinking.html	3	quotes	ESPN president meets Steve Jobs	Tom Shales and James Andrew Miller
+critical thinking	critical-thinking.html	3	quotes	Everyone is entitled to his own opinion, but not his own facts	Daniel Patrick Moynihan
+critical thinking	critical-thinking.html	3	quotes	The evil in the world comes almost always from ignorance	Albert Camus
+critical thinking	critical-thinking.html	3	quotes	Exponential growth in a finite world	Kenneth Boulding
+critical thinking	critical-thinking.html	3	quotes	Facts are Facts	Peter Kann
+critical thinking	critical-thinking.html	3	quotes	A First-Rate Intelligence	F. Scott Fitzgerald
+critical thinking	critical-thinking.html	3	quotes	The Four-Fold Way	Angeles Arrien
+critical thinking	critical-thinking.html	3	quotes	Fuzzy Concept	Ansel Adams
+critical thinking	critical-thinking.html	3	quotes	Gradually and then suddenly	Ernest Hemingway
+critical thinking	critical-thinking.html	3	quotes	Great minds discuss ideas	Eleanor Roosevelt
+critical thinking	critical-thinking.html	3	quotes	Hard Discipline of Reasonableness and Honesty	Gilbert Murray
+critical thinking	critical-thinking.html	3	quotes	Intellectual Debate	John Stuart Mill
+critical thinking	critical-thinking.html	3	quotes	Learning from Experience	Peter Senge
+critical thinking	critical-thinking.html	3	quotes	Men Fear Thought	Bertrand Russell
+critical thinking	critical-thinking.html	3	quotes	Merely a Muddle	Michael Innes
+critical thinking	critical-thinking.html	3	quotes	Model II Decision-Making	Chris Argyris and Donald Schön
+critical thinking	critical-thinking.html	3	quotes	Model II Values	Chris Argyris and Donald Schön
+critical thinking	critical-thinking.html	3	quotes	Most advertising an insane irrelevance	Raymond Williams
+critical thinking	critical-thinking.html	3	quotes	Muddled thinking and self-deception	Margery Allingham
+critical thinking	critical-thinking.html	3	quotes	Nirvana Antipattern	William J. Brown, Hays W. McCormick III and Scott W. Thomas
+critical thinking	critical-thinking.html	3	quotes	No Perfect Answer	Barack Obama
+critical thinking	critical-thinking.html	3	quotes	Occasions When the Intellect Retires Gracefully	Margery Allingham
+critical thinking	critical-thinking.html	3	quotes	The Other Side of Complexity	Oliver Wendell Holmes
+critical thinking	critical-thinking.html	3	quotes	People are happy to give away their most valuable asset	Yuval Noah Harari
+critical thinking	critical-thinking.html	3	quotes	The point of modern propaganda	Garry Kasparov
+critical thinking	critical-thinking.html	3	quotes	Politics and the Debasement of Language	George Orwell
+critical thinking	critical-thinking.html	3	quotes	The press is so powerful in its image-making role	Malcolm X
+critical thinking	critical-thinking.html	3	quotes	Public Truth	Robert B. Reich
+critical thinking	critical-thinking.html	3	quotes	Seeing the Bigger Picture from Multiple Angles	Jeff Bezos and Jason Fried
+critical thinking	critical-thinking.html	3	quotes	Seeking ways to disagree with myself	Yanis Varoufakis
+critical thinking	critical-thinking.html	3	quotes	Six Impossible Things Before Breakfast	Lewis Carroll
+critical thinking	critical-thinking.html	3	quotes	Successful Planning	Dashiell Hammett
+critical thinking	critical-thinking.html	3	quotes	Symbolic Language	David Christian
+critical thinking	critical-thinking.html	3	quotes	Taking a Fence Down	G. K. Chesterton
+critical thinking	critical-thinking.html	3	quotes	Ten Commandments for Teachers	Bertrand Russell
+critical thinking	critical-thinking.html	3	quotes	Terrible with raisins in it	Dorothy Parker
+critical thinking	critical-thinking.html	3	quotes	Thinking's a Dizzy Business	Dashiell Hammett
+critical thinking	critical-thinking.html	3	quotes	Thinking should be generous and have a good appetite	Sarah Bakewell
+critical thinking	critical-thinking.html	3	quotes	This faith in consciousness	Walter Mosley
+critical thinking	critical-thinking.html	3	quotes	Those Sharp, Scratchy, Harsh, Almost Unpleasant Guys	Thomas J. Watson, Jr
+critical thinking	critical-thinking.html	3	quotes	To differentiate truth from falsehood	Robert B. Reich
+critical thinking	critical-thinking.html	3	quotes	To prolong our presence on the face of the Earth	Jonas Salk
+critical thinking	critical-thinking.html	3	quotes	Torturing the Data	Darrell Huff
+critical thinking	critical-thinking.html	3	quotes	The Underlying Principle of the Problem	Steve Jobs
+critical thinking	critical-thinking.html	3	quotes	Unintelligible Propositions	Thomas Jefferson
+critical thinking	critical-thinking.html	3	quotes	Violent Opposition from Mediocre Minds	Albert Einstein
+critical thinking	critical-thinking.html	3	quotes	We are Doing our Best	Winston Churchill
+critical thinking	critical-thinking.html	3	quotes	We are what we pretend to be	Kurt Vonnegut
+critical thinking	critical-thinking.html	3	quotes	We don't even own suits	Apple
+critical thinking	critical-thinking.html	3	quotes	We have wonderful arguments	Steve Jobs
+critical thinking	critical-thinking.html	3	quotes	We Must Respect the Other Fellow's Religion	H. L. Mencken
+critical thinking	critical-thinking.html	3	quotes	When his salary depends on his not understanding it	Upton Sinclair
+critical thinking	critical-thinking.html	3	quotes	Where the Puck is Going to Be	Steve Jobs
+cultural evolution	cultural-evolution.html	3	quotes	All the World's Cultures Now Available to Us	Ken Wilber
+cultural evolution	cultural-evolution.html	3	quotes	Ancient ethnic sores belching fire	Don Beck and Chris Cowan
+cultural evolution	cultural-evolution.html	3	quotes	The Arc of History	Martin Luther King Jr.
+cultural evolution	cultural-evolution.html	3	quotes	Authentic cultures	Yuval Noah Harari
+cultural evolution	cultural-evolution.html	3	quotes	The Awesome Power of Culture	Yuval Noah Harari
+cultural evolution	cultural-evolution.html	3	quotes	Belief is the end of Observation	Milton Glaser
+cultural evolution	cultural-evolution.html	3	quotes	Between-group selection became the primary evolutionary force	David Sloan Wilson
+cultural evolution	cultural-evolution.html	3	quotes	the biological evolution of Homo sapiens was usurped by socio-cultural evolution	Jürgen Klüver
+cultural evolution	cultural-evolution.html	3	quotes	The brightest goat in the herd	Yuval Noah Harari
+cultural evolution	cultural-evolution.html	3	quotes	Changing the World	Margaret Mead
+cultural evolution	cultural-evolution.html	3	quotes	Chaos and Mediocrity	Joe Boyd
+cultural evolution	cultural-evolution.html	3	quotes	Counter-Culture's own values and aesthetics decayed	Joe Boyd
+cultural evolution	cultural-evolution.html	3	quotes	Cultural, as opposed to biological, evolution	Edwin G. Pulleyblank
+cultural evolution	cultural-evolution.html	3	quotes	Culture can be either mutualistic or predatory	Victor Hwang
+cultural evolution	cultural-evolution.html	3	quotes	Cultures as a kind of mental infection	Yuval Noah Harari
+cultural evolution	cultural-evolution.html	3	quotes	The Discomfort of Thought	John F. Kennedy
+cultural evolution	cultural-evolution.html	3	quotes	Egocentric Existence	Clare W. Graves
+cultural evolution	cultural-evolution.html	3	quotes	The entire pageant of human history	David Sloan Wilson
+cultural evolution	cultural-evolution.html	3	quotes	The Eternal Struggle for Human Rights	Albert Einstein
+cultural evolution	cultural-evolution.html	3	quotes	Evolutionary success and individual suffering	Yuval Noah Harari
+cultural evolution	cultural-evolution.html	3	quotes	The Extent of Freedom in All of its Dimensions	Anthony M. Kennedy
+cultural evolution	cultural-evolution.html	3	quotes	Fear of Missing Out	Yuval Noah Harari
+cultural evolution	cultural-evolution.html	3	quotes	The Fragile Constructs of History	Eamonn Kelly
+cultural evolution	cultural-evolution.html	3	quotes	From a biological perspective, nothing is unnatural	Yuval Noah Harari
+cultural evolution	cultural-evolution.html	3	quotes	The historical trajectory of violence	Steven Pinker
+cultural evolution	cultural-evolution.html	3	quotes	History is something very few people have been doing	Yuval Noah Harari
+cultural evolution	cultural-evolution.html	3	quotes	Homophobia	Ken Wilber
+cultural evolution	cultural-evolution.html	3	quotes	Human imagination more than biological reality	Yuval Noah Harari
+cultural evolution	cultural-evolution.html	3	quotes	If the future of humanity is decided in your absence	Yuval Noah Harari
+cultural evolution	cultural-evolution.html	3	quotes	I'll take the big sordid dirty crooked city	Raymond Chandler
+cultural evolution	cultural-evolution.html	3	quotes	I must study politics and war	John Adams
+cultural evolution	cultural-evolution.html	3	quotes	Inextricably Linked in Freedom	Wynton Marsalis
+cultural evolution	cultural-evolution.html	3	quotes	Institutions must advance and keep pace with the times	Thomas Jefferson
+cultural evolution	cultural-evolution.html	3	quotes	Levels of Development	Ken Wilber
+cultural evolution	cultural-evolution.html	3	quotes	Luxuries tend to become necessities	Yuval Noah Harari
+cultural evolution	cultural-evolution.html	3	quotes	The Makers of Things	Barack Obama
+cultural evolution	cultural-evolution.html	3	quotes	Man's nature is an open, constantly evolving system	Clare W. Graves
+cultural evolution	cultural-evolution.html	3	quotes	Merely Thoroughly Outrageous	Margery Allingham
+cultural evolution	cultural-evolution.html	3	quotes	Moral Religion	Albert Einstein
+cultural evolution	cultural-evolution.html	3	quotes	Most sociopolitical hierarchies lack a logical or biological basis	Yuval Noah Harari
+cultural evolution	cultural-evolution.html	3	quotes	Myths are stronger than anyone could have imagined	Yuval Noah Harari
+cultural evolution	cultural-evolution.html	3	quotes	Never Knew Cocaine to Improve Anything	Joe Boyd
+cultural evolution	cultural-evolution.html	3	quotes	No single natural way of life for Sapiens	Yuval Noah Harari
+cultural evolution	cultural-evolution.html	3	quotes	Only a Human Being	Albert Einstein
+cultural evolution	cultural-evolution.html	3	quotes	The only dependable things are humility and looking	Richard Powers
+cultural evolution	cultural-evolution.html	3	quotes	Our long-term personal and societal goals	David Sloan Wilson
+cultural evolution	cultural-evolution.html	3	quotes	Our Social Order Now in a State of Permanent Flux	Yuval Noah Harari
+cultural evolution	cultural-evolution.html	3	quotes	Our species does represent a new evolutionary process	David Sloan Wilson
+cultural evolution	cultural-evolution.html	3	quotes	Push Outward	Michel Foucault
+cultural evolution	cultural-evolution.html	3	quotes	The Real Problem of Humanity	E. O. Wilson
+cultural evolution	cultural-evolution.html	3	quotes	Religions are great bushy trees	David Sloan Wilson
+cultural evolution	cultural-evolution.html	3	quotes	Sixties Surpluses of Money and Time	Joe Boyd
+cultural evolution	cultural-evolution.html	3	quotes	The system has been shaping and reshaping our minds	Yuval Noah Harari
+cultural evolution	cultural-evolution.html	3	quotes	These principles have no objective validity	Yuval Noah Harari
+cultural evolution	cultural-evolution.html	3	quotes	This Highest Kind of Religious Feeling	Albert Einstein
+cultural evolution	cultural-evolution.html	3	quotes	Those who tolerate or encourage evil	Albert Einstein
+cultural evolution	cultural-evolution.html	3	quotes	Thralls to group instincts	Walter Mosley
+cultural evolution	cultural-evolution.html	3	quotes	The time-worn yoke of their opinions	Ralph Waldo Emerson
+cultural evolution	cultural-evolution.html	3	quotes	The Toxic Mix of Religion and Tribalism	E. O. Wilson
+cultural evolution	cultural-evolution.html	3	quotes	An ultracultural species is born	Brian Hare and Vanessa Woods
+cultural evolution	cultural-evolution.html	3	quotes	A vast repository of information learned and passed down from previous generations	David Sloan Wilson
+cultural evolution	cultural-evolution.html	3	quotes	We have the capacity to envision a better future and make it a reality	Victor Hwang
+cultural evolution	cultural-evolution.html	3	quotes	Why study history?	Yuval Noah Harari
+cultural evolution	cultural-evolution.html	3	quotes	You have your position because of the events of history	Martin Luther King Jr.
+culture	culture.html	3	quotes	Change is the one constant when it comes to culture	Wade Davis
+death	death.html	3	quotes	Dying is a very dull, dreary affair	W. Somerset Maugham
+democracy	democracy.html	3	quotes	An agenda of ambition and hope	Emmanuel Macron
+democracy	democracy.html	3	quotes	Americans' faith in democracy is at a record low	Leah Greenberg and Ezra Levin
+democracy	democracy.html	3	quotes	The Credibility of a Comedian	Jon Stewart
+democracy	democracy.html	3	quotes	Crosscutting Alliances	Steven Levitsky and Daniel Ziblatt
+democracy	democracy.html	3	quotes	Democracy is Worst Form of Government	Winston Churchill
+democracy	democracy.html	3	quotes	Mass Movements and Boredom	Eric Hoffer
+democracy	democracy.html	3	quotes	A multiethnic democracy in which no particular ethnic group is in the majority	Danielle Allen
+democracy	democracy.html	3	quotes	The Opposite of Popularizing Economics	Yanis Varoufakis
+democracy	democracy.html	3	quotes	The Paranoid Style in American Politics	Richard Hofstadter
+democracy	democracy.html	3	quotes	Public morality	Robert B. Reich
+democracy	democracy.html	3	quotes	Struggling against irrelevance	Yuval Noah Harari
+democracy	democracy.html	3	quotes	The Ultimate Democracy	Paul McCartney
+democracy	democracy.html	3	quotes	Unwritten Democratic Norms	Steven Levitsky and Daniel Ziblatt
+democracy	democracy.html	3	quotes	What Democracy Is	E. B. White
+democracy	democracy.html	3	quotes	What would a new social compact look like?	Edward Luce
+democracy	democracy.html	3	quotes	Writing off half of society as deplorable	Edward Luce
+design	design.html	3	quotes	Design is the fundamental soul of a man-made creation	Steve Jobs
+design	design.html	3	quotes	Economics is essentially a question of design	Kate Raworth
+design	design.html	3	quotes	We have wonderful arguments	Steve Jobs
+diversity	diversity.html	3	quotes	Ancient ethnic sores belching fire	Don Beck and Chris Cowan
+diversity	diversity.html	3	quotes	Crosscutting Alliances	Steven Levitsky and Daniel Ziblatt
+diversity	diversity.html	3	quotes	Diversity Helps Your Business -- But Not The Way You Think	Katherine Phillips
+diversity	diversity.html	3	quotes	The Divine Gift of Purely Nonsensical Speech and Action	Edmund Crispin
+diversity	diversity.html	3	quotes	First they came...	Martin Niemöller
+diversity	diversity.html	3	quotes	Homophobia	Ken Wilber
+diversity	diversity.html	3	quotes	Ism-mania	Robert Riskin
+diversity	diversity.html	3	quotes	Model II Decision-Making	Chris Argyris and Donald Schön
+diversity	diversity.html	3	quotes	A multiethnic democracy in which no particular ethnic group is in the majority	Danielle Allen
+diversity	diversity.html	3	quotes	Postel’s Law	Jon Postel
+diversity	diversity.html	3	quotes	Public morality	Robert B. Reich
+diversity	diversity.html	3	quotes	Seeing the Bigger Picture from Multiple Angles	Jeff Bezos and Jason Fried
+diversity	diversity.html	3	quotes	Ten Commandments for Teachers	Bertrand Russell
+diversity	diversity.html	3	quotes	We don't even own suits	Apple
+education	education.html	3	quotes	An agenda of ambition and hope	Emmanuel Macron
+education	education.html	3	quotes	Conscious Improvement for the Masses	Edward Luce
+education	education.html	3	quotes	Cost of Education	Derek Bok
+education	education.html	3	quotes	Defending the pursuit of learning	John F. Kennedy
+education	education.html	3	quotes	The evil in the world comes almost always from ignorance	Albert Camus
+education	education.html	3	quotes	Hands that must work	Lauretta Bender
+education	education.html	3	quotes	Ignorant and Free	Thomas Jefferson
+education	education.html	3	quotes	I must study politics and war	John Adams
+education	education.html	3	quotes	Intelligence plus Character	Martin Luther King Jr.
+education	education.html	3	quotes	Investing in other people's children	Robert Putnam
+education	education.html	3	quotes	Learning from Experience	Peter Senge
+education	education.html	3	quotes	Learning how to exercise some control over how and what you think	David Foster Wallace
+education	education.html	3	quotes	Life is a series of daring adventures from a secure base	David Brooks
+education	education.html	3	quotes	The Opposite of Popularizing Economics	Yanis Varoufakis
+education	education.html	3	quotes	Preparing Managers to Manage	Matthew Stewart
+education	education.html	3	quotes	Prime training for permanent underclasses	John Taylor Gatto
+education	education.html	3	quotes	Quality Matters	Dambisa Moyo
+education	education.html	3	quotes	Quality of Children vs. Quantity	Margaret Mead
+education	education.html	3	quotes	Relieving Ignorance	Matthew Stewart
+education	education.html	3	quotes	Ten Commandments for Teachers	Bertrand Russell
+education	education.html	3	quotes	To differentiate truth from falsehood	Robert B. Reich
+education	education.html	3	quotes	To save man from the morass of propaganda	Martin Luther King Jr.
+education	education.html	3	quotes	The US remains astonishingly backward when it comes to education	Anu Partanen
+education	education.html	3	quotes	You can simply focus on raising a human being	Anu Partanen
+equality	equality.html	3	quotes	Accidents of birth	Anu Partanen
+equality	equality.html	3	quotes	All must be held valuable, or none	Edmund Crispin
+equality	equality.html	3	quotes	Any Love for Justice	James Baldwin
+equality	equality.html	3	quotes	The Arc of History	Martin Luther King Jr.
+equality	equality.html	3	quotes	By Gifts One Makes Slaves	Peter Freuchen
+equality	equality.html	3	quotes	Capitalism as a Market Society	Yanis Varoufakis
+equality	equality.html	3	quotes	Capitalism works best in societies where there are high levels of trust	Edward Luce
+equality	equality.html	3	quotes	A Coke is a Coke	Andy Warhol
+equality	equality.html	3	quotes	The Columbia Disaster	Dennis Stauffer
+equality	equality.html	3	quotes	Conscious Improvement for the Masses	Edward Luce
+equality	equality.html	3	quotes	Democracy is Worst Form of Government	Winston Churchill
+equality	equality.html	3	quotes	Equals	John Lennon
+equality	equality.html	3	quotes	ESPN president meets Steve Jobs	Tom Shales and James Andrew Miller
+equality	equality.html	3	quotes	The Eternal Struggle for Human Rights	Albert Einstein
+equality	equality.html	3	quotes	First they came...	Martin Niemöller
+equality	equality.html	3	quotes	Generosity is the robust strategy	Tim O'Reilly
+equality	equality.html	3	quotes	Good Management is Like The Beatles	Steve Jobs
+equality	equality.html	3	quotes	Guided missiles and misguided men	Martin Luther King Jr.
+equality	equality.html	3	quotes	A hereditary meritocracy	Edward Luce
+equality	equality.html	3	quotes	History is not some self-driving car	Edward Luce
+equality	equality.html	3	quotes	If you'll just rattle your jewelry	John Lennon
+equality	equality.html	3	quotes	A law against private jets	Abigail Disney
+equality	equality.html	3	quotes	Liberal democracy's strongest glue is economic growth	Edward Luce
+equality	equality.html	3	quotes	Liberalism is not Socialism	Winston Churchill
+equality	equality.html	3	quotes	A multiethnic democracy in which no particular ethnic group is in the majority	Danielle Allen
+equality	equality.html	3	quotes	No person in America should be too poor to live	Alexandria Ocasio-Cortez
+equality	equality.html	3	quotes	Peace with Justice	Dwight D. Eisenhower
+equality	equality.html	3	quotes	The Philosophy of Jazz	Wynton Marsalis
+equality	equality.html	3	quotes	A Progressive Annual Tax on Capital	Thomas Piketty
+equality	equality.html	3	quotes	Public morality	Robert B. Reich
+equality	equality.html	3	quotes	Set off from the rest by a line drawn	Walt Whitman
+equality	equality.html	3	quotes	To live wisely and agreeably and well	John Maynard Keynes
+equality	equality.html	3	quotes	The Trick in Keeping Bands Together	Bruce Springsteen
+equality	equality.html	3	quotes	Two ideas of government	William Jennings Bryan
+equality	equality.html	3	quotes	The Ultimate Democracy	Paul McCartney
+equality	equality.html	3	quotes	The US remains astonishingly backward when it comes to education	Anu Partanen
+equality	equality.html	3	quotes	We All Derive From the Same Source	Henry Miller
+equality	equality.html	3	quotes	We have wonderful arguments	Steve Jobs
+equality	equality.html	3	quotes	We Must Respect the Other Fellow's Religion	H. L. Mencken
+equality	equality.html	3	quotes	What would a new social compact look like?	Edward Luce
+equality	equality.html	3	quotes	White people will have quite enough to do	James Baldwin
+evolution	evolution.html	3	quotes	Apes and Humans	Carl Sagan and Ann Druyan
+evolution	evolution.html	3	quotes	The chicken experiment	David Sloan Wilson
+evolution	evolution.html	3	quotes	Competition is not separable from endless flavors of cooperation	Richard Powers
+evolution	evolution.html	3	quotes	Evolutionary Drive Towards Complexity	Richard Dawkins
+evolution	evolution.html	3	quotes	Living in small groups has been baked into our psyches	David Sloan Wilson
+evolution	evolution.html	3	quotes	The malleability of life	David Sloan Wilson
+evolution	evolution.html	3	quotes	Small groups are a fundamental unit of human social organization	David Sloan Wilson
+evolution	evolution.html	3	quotes	Which side will lose by winning	Richard Powers
+evolution	evolution.html	3	quotes	A working simple system	John Gall
+family	family.html	3	quotes	Many humans just don't like their families	David Graeber and David Wengrow
+governance	governance.html	3	quotes	Balance is Required to Maintain Democracy	Wynton Marsalis
+governance	governance.html	3	quotes	The best thing we can do is treat each other better	Barack Obama
+governance	governance.html	3	quotes	A Completely Free Market	Yuval Noah Harari
+governance	governance.html	3	quotes	Conservatives and Progressives	G. K. Chesterton
+governance	governance.html	3	quotes	Democracy is Worst Form of Government	Winston Churchill
+governance	governance.html	3	quotes	Every Body cries, a Union is absolutely necessary	Benjamin Franklin
+governance	governance.html	3	quotes	Good Management is Like The Beatles	Steve Jobs
+governance	governance.html	3	quotes	Governance is essential	Tim O'Reilly
+governance	governance.html	3	quotes	Government has a final responsibility for the well-being of its citizenship	Franklin D. Roosevelt
+governance	governance.html	3	quotes	Governments losing their ability to anticipate events	Edward Luce
+governance	governance.html	3	quotes	The great primeval contract of eternal society	Edmund Burke
+governance	governance.html	3	quotes	Ignorant and Free	Thomas Jefferson
+governance	governance.html	3	quotes	Invest in your employees	Jasmine Donovan
+governance	governance.html	3	quotes	Labor is the Superior of Capital	Abraham Lincoln
+governance	governance.html	3	quotes	The legitimate object of government	Abraham Lincoln
+governance	governance.html	3	quotes	Liberalism is not Socialism	Winston Churchill
+governance	governance.html	3	quotes	Life is a series of daring adventures from a secure base	David Brooks
+governance	governance.html	3	quotes	Living with the strains of complexity	Daniel Patrick Moynihan
+governance	governance.html	3	quotes	No Perfect Answer	Barack Obama
+governance	governance.html	3	quotes	Nordic societies have simply taken the job of government seriously	Anu Partanen
+governance	governance.html	3	quotes	Our political system is not equipped to deliver solutions	Leah Greenberg and Ezra Levin
+governance	governance.html	3	quotes	Preparing Managers to Manage	Matthew Stewart
+governance	governance.html	3	quotes	The producing of good citizens	Juan Louis Vives
+governance	governance.html	3	quotes	A reactionary conservative party	Leah Greenberg and Ezra Levin
+governance	governance.html	3	quotes	Responsible Nationalism	Edward Luce
+governance	governance.html	3	quotes	Socialism is their name for anything that helps the people	Harry S. Truman
+governance	governance.html	3	quotes	Stakeholder Capitalism	Frank W. Abrams
+governance	governance.html	3	quotes	Taking a Fence Down	G. K. Chesterton
+governance	governance.html	3	quotes	Trust in the Future	Yuval Noah Harari
+governance	governance.html	3	quotes	Two ideas of government	William Jennings Bryan
+governance	governance.html	3	quotes	We need governments to provide clear pathways	Larry Fink
+governance	governance.html	3	quotes	When Growth Becomes a Supreme Good	Yuval Noah Harari
+governance	governance.html	3	quotes	The World Empire enforces World Peace	Yuval Noah Harari
+humanism	humanism.html	3	quotes	All must be held valuable, or none	Edmund Crispin
+humanism	humanism.html	3	quotes	Apes and Humans	Carl Sagan and Ann Druyan
+humanism	humanism.html	3	quotes	Art presents us with a window into the minds of these people	Genevieve von Petzinger
+humanism	humanism.html	3	quotes	The center of every man's existence is a dream	G. K. Chesterton
+humanism	humanism.html	3	quotes	Chimps and Humans	Carl Sagan and Ann Druyan
+humanism	humanism.html	3	quotes	Cockpits with Instruments Controlled by Gremlins	Robert D. Austin
+humanism	humanism.html	3	quotes	Her faith had twisted very early in her childhood	Lauren Groff
+humanism	humanism.html	3	quotes	Imagination is not a means of making money	Ursula K. Le Guin
+humanism	humanism.html	3	quotes	An Invincible Summer	Albert Camus
+humanism	humanism.html	3	quotes	An Irreplaceable Compact	Edmund Crispin
+humanism	humanism.html	3	quotes	The modern horrors of bureaucracy	Amanda Cross
+humanism	humanism.html	3	quotes	Monkeys with money and guns	Tom Waits
+humanism	humanism.html	3	quotes	The Most Dangerous of Devotions	E. O. Wilson
+humanism	humanism.html	3	quotes	Only a Human Being	Albert Einstein
+humanism	humanism.html	3	quotes	The Rainbow Bridge	E. M. Forster
+humanism	humanism.html	3	quotes	The Real Problem of Humanity	E. O. Wilson
+humanism	humanism.html	3	quotes	Safe in the hands of a force far greater	Lauren Groff
+humanism	humanism.html	3	quotes	The sort of organisms that interpret and modify their agency	Amélie Rorty
+humanism	humanism.html	3	quotes	Start with romance and build to a reality	Ray Bradbury
+humanism	humanism.html	3	quotes	Symbolic Language	David Christian
+humanism	humanism.html	3	quotes	To end up here in a pile of bones	Frank Capra
+humanism	humanism.html	3	quotes	To prolong our presence on the face of the Earth	Jonas Salk
+humanism	humanism.html	3	quotes	To simply see human beings	Charles Woodson
+humanism	humanism.html	3	quotes	The Undisputed Sovereignty of the Human Being	Wynton Marsalis
+humanism	humanism.html	3	quotes	We All Derive From the Same Source	Henry Miller
+humanism	humanism.html	3	quotes	We are in Eden still	G. K. Chesterton
+humanism	humanism.html	3	quotes	We're part of something continuous	Moira Buffini
+humanism	humanism.html	3	quotes	When machines are considered more important than people	Martin Luther King Jr.
+humanism	humanism.html	3	quotes	A Work Ethic Gone Mad	Matthew Stewart
+identity	identity.html	3	quotes	The new form of the problem of identity	Rollo May
+imperfection	imperfection.html	3	quotes	Between Saturday night and Sunday morning	Jimmy Buffet
+imperfection	imperfection.html	3	quotes	Continually debating people and never winning	Scott Adams
+imperfection	imperfection.html	3	quotes	Expectations of holiness	William Blake
+imperfection	imperfection.html	3	quotes	Finish every day and be done with it	Ralph Waldo Emerson
+imperfection	imperfection.html	3	quotes	I learned a lot of things from failure	Brooks Robinson
+imperfection	imperfection.html	3	quotes	I'll take the big sordid dirty crooked city	Raymond Chandler
+imperfection	imperfection.html	3	quotes	Unbelievable Heroes	John Rogers
+individuals	individuals.html	3	quotes	All of us are trim tabs	Jeff Bridges
+individuals	individuals.html	3	quotes	Art is a Hammer	Bertolt Brecht
+individuals	individuals.html	3	quotes	The best way to predict the future is to invent it	Alan Kay
+individuals	individuals.html	3	quotes	Careful, thoughtful, small, practical efforts	Joseph L. Badaracco, Jr.
+individuals	individuals.html	3	quotes	Changing the World	Margaret Mead
+individuals	individuals.html	3	quotes	Creatively Maladjusted	Martin Luther King Jr.
+individuals	individuals.html	3	quotes	Critical Thinking Followed by Action	Dalai Lama
+individuals	individuals.html	3	quotes	Do the Right Thing	Mark Twain
+individuals	individuals.html	3	quotes	Down These Mean Streets	Raymond Chandler
+individuals	individuals.html	3	quotes	History is not some self-driving car	Edward Luce
+individuals	individuals.html	3	quotes	The Inner Life of the Artist	Edward Hopper
+individuals	individuals.html	3	quotes	Labor is the Superior of Capital	Abraham Lincoln
+individuals	individuals.html	3	quotes	Life can be much broader	Steve Jobs
+individuals	individuals.html	3	quotes	Little things seen largely	Otto Jespersen
+individuals	individuals.html	3	quotes	The Makers of Things	Barack Obama
+individuals	individuals.html	3	quotes	Only Two Sources of Real Wealth	Dorothy L. Sayers
+individuals	individuals.html	3	quotes	An ordinary person, doing an ordinary job	Martin Luther King Jr.
+individuals	individuals.html	3	quotes	Our privileges can be no greater than our obligations	John F. Kennedy
+individuals	individuals.html	3	quotes	People ask me to predict the future	Ray Bradbury
+individuals	individuals.html	3	quotes	People with Passion	Steve Jobs
+individuals	individuals.html	3	quotes	The Philosophy of Jazz	Wynton Marsalis
+individuals	individuals.html	3	quotes	Price of Success	Frank Lloyd Wright
+individuals	individuals.html	3	quotes	Progress Depends on the Unreasonable Man	George Bernard Shaw
+individuals	individuals.html	3	quotes	Small and Obscure Deeds	Albert Schweitzer
+individuals	individuals.html	3	quotes	Ten thousand fools proclaim themselves	Martin Luther King Jr.
+individuals	individuals.html	3	quotes	Think globally, act locally	Disputed
+individuals	individuals.html	3	quotes	True Character	E. O. Wilson
+individuals	individuals.html	3	quotes	The Undisputed Sovereignty of the Human Being	Wynton Marsalis
+individuals	individuals.html	3	quotes	Vital and Significant Forms of Art	Raymond Chandler
+individuals	individuals.html	3	quotes	We All Derive From the Same Source	Henry Miller
+individuals	individuals.html	3	quotes	Wriggling	E. M. Forster
+integral	integral.html	3	quotes	The Beautiful, the Good and the True	Ken Wilber
+integral	integral.html	3	quotes	A book is a man's best friend	Groucho Marx
+integral	integral.html	3	quotes	Everybody Has Some Important Pieces of the Truth	Ken Wilber
+integral	integral.html	3	quotes	Everything had nuance	Celeste Ng
+integral	integral.html	3	quotes	An Integral God	Ken Wilber
+integral	integral.html	3	quotes	The Left Hand Dimension	Ken Wilber
+integral	integral.html	3	quotes	Mastery of Inner and Outer Worlds	Carl Jung
+integral	integral.html	3	quotes	Only Connect	E. M. Forster
+integral	integral.html	3	quotes	The Rainbow Bridge	E. M. Forster
+integral	integral.html	3	quotes	Seeing the Bigger Picture from Multiple Angles	Jeff Bezos and Jason Fried
+integral	integral.html	3	quotes	Technology married with the humanities	Steve Jobs
+integral	integral.html	3	quotes	We are idealists and we are realists	Alan Lightman
+liberty	liberty.html	3	quotes	An agenda of ambition and hope	Emmanuel Macron
+liberty	liberty.html	3	quotes	Between Stimulus and Response	Rollo May
+liberty	liberty.html	3	quotes	The Challenge of Swing	Wynton Marsalis
+liberty	liberty.html	3	quotes	Cockpits with Instruments Controlled by Gremlins	Robert D. Austin
+liberty	liberty.html	3	quotes	Every Third American	H. L. Mencken
+liberty	liberty.html	3	quotes	The Extent of Freedom in All of its Dimensions	Anthony M. Kennedy
+liberty	liberty.html	3	quotes	Freedom of Expression in Business	Tom Peters and Robert H. Waterman Jr.
+liberty	liberty.html	3	quotes	Freedom of Judgment	Baruch Spinoza
+liberty	liberty.html	3	quotes	Ignorant and Free	Thomas Jefferson
+liberty	liberty.html	3	quotes	Independence, freedom and opportunity for every member of society	Anu Partanen
+liberty	liberty.html	3	quotes	Inextricably Linked in Freedom	Wynton Marsalis
+liberty	liberty.html	3	quotes	Man must believe in an open future	Colin Wilson
+liberty	liberty.html	3	quotes	Men Fear Thought	Bertrand Russell
+liberty	liberty.html	3	quotes	Model II Decision-Making	Chris Argyris and Donald Schön
+liberty	liberty.html	3	quotes	Model II Values	Chris Argyris and Donald Schön
+liberty	liberty.html	3	quotes	More than enough	William Blake
+liberty	liberty.html	3	quotes	The Most Precious Kind of Freedom	David Foster Wallace
+liberty	liberty.html	3	quotes	Our privileges can be no greater than our obligations	John F. Kennedy
+liberty	liberty.html	3	quotes	Peace with Justice	Dwight D. Eisenhower
+liberty	liberty.html	3	quotes	The Philosophy of Jazz	Wynton Marsalis
+liberty	liberty.html	3	quotes	Postel’s Law	Jon Postel
+liberty	liberty.html	3	quotes	Ten Commandments for Teachers	Bertrand Russell
+liberty	liberty.html	3	quotes	We don't even own suits	Apple
+liberty	liberty.html	3	quotes	The World is a Wonderfully Weird Place	Tom Robbins
+love	love.html	3	quotes	The cause which is blocking all progress	G. K. Chesterton
+love	love.html	3	quotes	The difference between construction and creation	G. K. Chesterton
+love	love.html	3	quotes	A diminishing sense of shared humanity	Brené Brown
+love	love.html	3	quotes	The Four-Fold Way	Angeles Arrien
+love	love.html	3	quotes	The fundamental goodness of human nature	Thomas Keating
+love	love.html	3	quotes	A Hundred Species of Love	Richard Powers
+love	love.html	3	quotes	Integrity and Conviction	Wynton Marsalis
+love	love.html	3	quotes	It's sports and it's all love	Moritz Wagner
+love	love.html	3	quotes	Love is the ultimate and the highest goal	Victor Frankl
+love	love.html	3	quotes	The Love of What We are Doing	Wynton Marsalis
+love	love.html	3	quotes	The moment we cease to hold each other	James Baldwin
+love	love.html	3	quotes	Only Connect	E. M. Forster
+love	love.html	3	quotes	The original naiveté	Henri Matisse
+love	love.html	3	quotes	Our Reply to Violence	Leonard Bernstein
+love	love.html	3	quotes	Practice kindness all day to everybody	Jack Kerouac
+love	love.html	3	quotes	The productive orientation is expressed in love	Erich Fromm
+love	love.html	3	quotes	Public morality	Robert B. Reich
+love	love.html	3	quotes	This dear fucked-up planet	Henry Miller
+love	love.html	3	quotes	Thou shalt love thy neighbour as thyself	Jesus
+love	love.html	3	quotes	tikkun olam	John Gottman
+love	love.html	3	quotes	To see a world in a grain of sand	William Blake
+love	love.html	3	quotes	Unarmed Truth and Unconditional Love	Martin Luther King Jr.
+love	love.html	3	quotes	The World is a Wonderfully Weird Place	Tom Robbins
+mission	mission.html	3	quotes	The axis is constructive-destructive	Steve Jobs
+mission	mission.html	3	quotes	Each man is questioned by life	Victor Frankl
+mission	mission.html	3	quotes	Ends for which We Live	Martin Luther King Jr.
+mission	mission.html	3	quotes	Finish every day and be done with it	Ralph Waldo Emerson
+mission	mission.html	3	quotes	The intricate riddle of life	Mary Shelley
+mission	mission.html	3	quotes	Let us accept our own responsibility for the future	John F. Kennedy
+mission	mission.html	3	quotes	The lie of retirement	Milton Glaser
+mission	mission.html	3	quotes	Living happily ever after	Bob Mandel
+mission	mission.html	3	quotes	The malleability of life	David Sloan Wilson
+mission	mission.html	3	quotes	Man must believe in an open future	Colin Wilson
+mission	mission.html	3	quotes	A Meaningful Life	Yuval Noah Harari
+mission	mission.html	3	quotes	Our long-term personal and societal goals	David Sloan Wilson
+mission	mission.html	3	quotes	Selling sugared water	Steve Jobs
+mission	mission.html	3	quotes	tikkun olam	John Gottman
+mission	mission.html	3	quotes	To Give in the Same Measure	Albert Einstein
+mission	mission.html	3	quotes	To prolong our presence on the face of the Earth	Jonas Salk
+mission	mission.html	3	quotes	The welfare of the whole human race	Arnold J. Toynbee
+mission	mission.html	3	quotes	We make money to make more movies	Walt Disney
+mission	mission.html	3	quotes	We should always be fighting evil	Stan Lee
+mission	mission.html	3	quotes	When old men plant trees	anonymous
+mission	mission.html	3	quotes	While he was focusing on the inner self, his outer world has gone to pot	Clare W. Graves
+mission	mission.html	3	quotes	A Why to Live	Friedrich Nietzsche
+mission	mission.html	3	quotes	A Work Ethic Gone Mad	Matthew Stewart
+mission	mission.html	3	quotes	A world that is tolerable	Walter Mosley
+music	music.html	3	quotes	Notation not to be confused with music itself	Winthrop Sargeant
+parenthood	parenthood.html	3	quotes	I must study politics and war	John Adams
+parenthood	parenthood.html	3	quotes	The institution of the family	Daniel Patrick Moynihan
+parenthood	parenthood.html	3	quotes	Life is a series of daring adventures from a secure base	David Brooks
+parenthood	parenthood.html	3	quotes	Quality of Children vs. Quantity	Margaret Mead
+parenthood	parenthood.html	3	quotes	That community asks for and gets chaos	Daniel Patrick Moynihan
+parenthood	parenthood.html	3	quotes	You can simply focus on raising a human being	Anu Partanen
+population	population.html	3	quotes	Intelligent guides of family planning	Martin Luther King Jr.
+power	power.html	3	quotes	The more they yearned for omnipotence	Ross MacDonald
+practical	practical.html	3	quotes	Careful, thoughtful, small, practical efforts	Joseph L. Badaracco, Jr.
+practical	practical.html	3	quotes	Minute Particulars	William Blake
+practical	practical.html	3	quotes	Rough consensus and running code	David D. Clark
+practical	practical.html	3	quotes	Steve Jobs Ideals	Ron Johnson
+practopian	practopian.html	3	quotes	Which side will lose by winning	Richard Powers
+progress	progress.html	3	quotes	An agenda of ambition and hope	Emmanuel Macron
+progress	progress.html	3	quotes	The Art of Progress	Alfred North Whitehead
+progress	progress.html	3	quotes	The cause which is blocking all progress	G. K. Chesterton
+progress	progress.html	3	quotes	The Change Dilemma	Sydney Harris
+progress	progress.html	3	quotes	Changing the World	Margaret Mead
+progress	progress.html	3	quotes	Conservatives and Progressives	G. K. Chesterton
+progress	progress.html	3	quotes	Critical Thinking Followed by Action	Dalai Lama
+progress	progress.html	3	quotes	Daily Acts of Trivia	Robert Heinlein
+progress	progress.html	3	quotes	Faster Horses	Henry Ford
+progress	progress.html	3	quotes	A Happy Man	Albert Einstein
+progress	progress.html	3	quotes	I Dream Things That Never Were	George Bernard Shaw
+progress	progress.html	3	quotes	Introduction of a new order of things	Niccolò Machiavelli
+progress	progress.html	3	quotes	Life can be much broader	Steve Jobs
+progress	progress.html	3	quotes	The Makers of Things	Barack Obama
+progress	progress.html	3	quotes	Most humans desire cultural stability, not change	Stephen E. Nash
+progress	progress.html	3	quotes	People ask me to predict the future	Ray Bradbury
+progress	progress.html	3	quotes	People with Passion	Steve Jobs
+progress	progress.html	3	quotes	The Power of Art	Wynton Marsalis
+progress	progress.html	3	quotes	Progress Depends on Retentiveness	George Santayana
+progress	progress.html	3	quotes	Progress Depends on the Unreasonable Man	George Bernard Shaw
+progress	progress.html	3	quotes	A Return to These Truths	Barack Obama
+progress	progress.html	3	quotes	Small and Obscure Deeds	Albert Schweitzer
+progress	progress.html	3	quotes	Steve Jobs Ideals	Ron Johnson
+progress	progress.html	3	quotes	Taking a Fence Down	G. K. Chesterton
+progress	progress.html	3	quotes	Ten thousand fools proclaim themselves	Martin Luther King Jr.
+progress	progress.html	3	quotes	This dear fucked-up planet	Henry Miller
+progress	progress.html	3	quotes	The time-worn yoke of their opinions	Ralph Waldo Emerson
+progress	progress.html	3	quotes	Walter Reuther and the Ford Robots	Walter Reuther
+progress	progress.html	3	quotes	Where the Puck is Going to Be	Steve Jobs
+progress	progress.html	3	quotes	You are going to have to make it different	Jacob Bronowski
+property	property.html	3	quotes	National parks and reserves	John F. Kennedy
+reciprocity	reciprocity.html	3	quotes	By Gifts One Makes Slaves	Peter Freuchen
+religion	religion.html	3	quotes	The Celestial Teapot	Bertrand Russell
+religion	religion.html	3	quotes	God and Morality	Frans de Waal
+religion	religion.html	3	quotes	Her faith had twisted very early in her childhood	Lauren Groff
+religion	religion.html	3	quotes	If triangles had a god	Montesquieu
+religion	religion.html	3	quotes	An Integral God	Ken Wilber
+religion	religion.html	3	quotes	Larger, freer, and more loving	James Baldwin
+religion	religion.html	3	quotes	Moral Religion	Albert Einstein
+religion	religion.html	3	quotes	The Most Dangerous of Devotions	E. O. Wilson
+religion	religion.html	3	quotes	The Mysterious	Albert Einstein
+religion	religion.html	3	quotes	Religions are great bushy trees	David Sloan Wilson
+religion	religion.html	3	quotes	This Highest Kind of Religious Feeling	Albert Einstein
+religion	religion.html	3	quotes	The Toxic Mix of Religion and Tribalism	E. O. Wilson
+religion	religion.html	3	quotes	True Character	E. O. Wilson
+religion	religion.html	3	quotes	We Must Respect the Other Fellow's Religion	H. L. Mencken
+retention	retention.html	3	quotes	Progress Depends on Retentiveness	George Santayana
+rule of law	rule-of-law.html	3	quotes	Any Love for Justice	James Baldwin
+rule of law	rule-of-law.html	3	quotes	Moral Religion	Albert Einstein
+rule of law	rule-of-law.html	3	quotes	Peace with Justice	Dwight D. Eisenhower
+rule of law	rule-of-law.html	3	quotes	Regulating the ownership of data	Yuval Noah Harari
+science	science.html	3	quotes	An agenda of ambition and hope	Emmanuel Macron
+science	science.html	3	quotes	Apes and Humans	Carl Sagan and Ann Druyan
+science	science.html	3	quotes	Art, Science and Empire	William Blake
+science	science.html	3	quotes	Chimps and Humans	Carl Sagan and Ann Druyan
+science	science.html	3	quotes	Discoveries and Inventions	Abraham Lincoln
+science	science.html	3	quotes	The exercise of the intellect	Alexis de Tocqueville
+science	science.html	3	quotes	The Mysterious	Albert Einstein
+science	science.html	3	quotes	Notions to Explain Nature	Baruch Spinoza
+science	science.html	3	quotes	The only dependable things are humility and looking	Richard Powers
+science	science.html	3	quotes	Simplicity and Complexity	Albert Einstein
+science	science.html	3	quotes	The Supreme Goal of All Theory	Albert Einstein
+science	science.html	3	quotes	The Toxic Mix of Religion and Tribalism	E. O. Wilson
+science	science.html	3	quotes	Violent Opposition from Mediocre Minds	Albert Einstein
+science	science.html	3	quotes	When you can measure what you are speaking about	Lord Kelvin
+society	society.html	3	quotes	All of us are trim tabs	Jeff Bridges
+society	society.html	3	quotes	The American cult of the individual	Wade Davis
+society	society.html	3	quotes	A beast or a god	Aristotle
+society	society.html	3	quotes	Capitalism as a Market Society	Yanis Varoufakis
+society	society.html	3	quotes	Capitalism works best in societies where there are high levels of trust	Edward Luce
+society	society.html	3	quotes	Chaos and Mediocrity	Joe Boyd
+society	society.html	3	quotes	The chicken experiment	David Sloan Wilson
+society	society.html	3	quotes	Civilization was a thin and precarious crust	John Maynard Keynes
+society	society.html	3	quotes	Cooperative communication	Brian Hare and Vanessa Woods
+society	society.html	3	quotes	Culture can be either mutualistic or predatory	Victor Hwang
+society	society.html	3	quotes	The economy is too important to leave to the economists	Yanis Varoufakis
+society	society.html	3	quotes	The eternal struggle between good and evil	David Sloan Wilson
+society	society.html	3	quotes	Flexible cooperation with strangers	Yuval Noah Harari
+society	society.html	3	quotes	Freedom of Judgment	Baruch Spinoza
+society	society.html	3	quotes	Frivolous and fanciful distinctions	James Madison
+society	society.html	3	quotes	The great primeval contract of eternal society	Edmund Burke
+society	society.html	3	quotes	The group of people that you would both help feed and help defend	Sebastian Junger
+society	society.html	3	quotes	If you'll just rattle your jewelry	John Lennon
+society	society.html	3	quotes	I'll take the big sordid dirty crooked city	Raymond Chandler
+society	society.html	3	quotes	Investing in other people's children	Robert Putnam
+society	society.html	3	quotes	It's the rich class that's winning	Warren Buffett
+society	society.html	3	quotes	Labor is the Superior of Capital	Abraham Lincoln
+society	society.html	3	quotes	The legitimate object of government	Abraham Lincoln
+society	society.html	3	quotes	Living in small groups has been baked into our psyches	David Sloan Wilson
+society	society.html	3	quotes	Many humans just don't like their families	David Graeber and David Wengrow
+society	society.html	3	quotes	Mass Movements and Boredom	Eric Hoffer
+society	society.html	3	quotes	Model II Decision-Making	Chris Argyris and Donald Schön
+society	society.html	3	quotes	Model II Values	Chris Argyris and Donald Schön
+society	society.html	3	quotes	My Life Belongs to the Whole Community	George Bernard Shaw
+society	society.html	3	quotes	Nurturance is a master variable	David Sloan Wilson
+society	society.html	3	quotes	The only thing that's constant there is other people	Jim Coan
+society	society.html	3	quotes	The Opposite of Popularizing Economics	Yanis Varoufakis
+society	society.html	3	quotes	Peace with Justice	Dwight D. Eisenhower
+society	society.html	3	quotes	People are finally finding out that the guy next door isn't a bad egg	Robert Riskin
+society	society.html	3	quotes	Power and Privilege have been amassed	Peter Boettke
+society	society.html	3	quotes	The Power of Stakeholder Capitalism	Larry Fink
+society	society.html	3	quotes	Public morality	Robert B. Reich
+society	society.html	3	quotes	Relationships among groups	David Sloan Wilson
+society	society.html	3	quotes	Small groups are a fundamental unit of human social organization	David Sloan Wilson
+society	society.html	3	quotes	Social resilience	Sebastian Junger
+society	society.html	3	quotes	The stagnation of American middle-class living standards	Ben Friedman
+society	society.html	3	quotes	True Character	E. O. Wilson
+society	society.html	3	quotes	We are what we pretend to be	Kurt Vonnegut
+society	society.html	3	quotes	We have the capacity to envision a better future and make it a reality	Victor Hwang
+society	society.html	3	quotes	The welfare of the whole human race	Arnold J. Toynbee
+society	society.html	3	quotes	We Need a Place to Stand	John Bacon and Ed Zeiders
+society	society.html	3	quotes	We need governments to provide clear pathways	Larry Fink
+society	society.html	3	quotes	We vastly underestimate the impact of our immediate environment on our behavior	Dave Mayer
+society	society.html	3	quotes	What would a new social compact look like?	Edward Luce
+society	society.html	3	quotes	When racial or religious lines are drawn by the State	William O. Douglas
+society	society.html	3	quotes	The yen to work drops in flat economies	Edward Luce
+sustainability	sustainability.html	3	quotes	Climate Changers	John Guillebaud
+sustainability	sustainability.html	3	quotes	Digging up fossil fuels and setting them alight	Bill McKibben
+sustainability	sustainability.html	3	quotes	Economic growth will not save the global ecosystem	Yuval Noah Harari
+sustainability	sustainability.html	3	quotes	Economies that make us thrive	Kate Raworth
+sustainability	sustainability.html	3	quotes	Exponential growth in a finite world	Kenneth Boulding
+sustainability	sustainability.html	3	quotes	Having Fewer Children and Grandchildren	Herb Bowie
+sustainability	sustainability.html	3	quotes	The Human Experiment is Now in Question	Bill McKibben
+sustainability	sustainability.html	3	quotes	Managing our planetary household	Kate Raworth
+sustainability	sustainability.html	3	quotes	A Planet-Sized Problem	E. O. Wilson
+sustainability	sustainability.html	3	quotes	Quality of Children vs. Quantity	Margaret Mead
+sustainability	sustainability.html	3	quotes	Unprecedented growth in human power	Yuval Noah Harari
+systemic	systemic.html	3	quotes	Ancient ethnic sores belching fire	Don Beck and Chris Cowan
+systemic	systemic.html	3	quotes	Capitalism as a Market Society	Yanis Varoufakis
+systemic	systemic.html	3	quotes	Competition is not separable from endless flavors of cooperation	Richard Powers
+systemic	systemic.html	3	quotes	An edifice which produces beggars needs restructuring	Martin Luther King Jr.
+systemic	systemic.html	3	quotes	In the thrall of a vast, world-spanning machine	Tim O'Reilly
+systemic	systemic.html	3	quotes	Learning from Experience	Peter Senge
+systemic	systemic.html	3	quotes	The modern horrors of bureaucracy	Amanda Cross
+systemic	systemic.html	3	quotes	Simple things should be simple, complex things should be possible	Alan Kay
+systemic	systemic.html	3	quotes	We don't even own suits	Apple
+systemic	systemic.html	3	quotes	Which side will lose by winning	Richard Powers
+systemic	systemic.html	3	quotes	A working simple system	John Gall
+systemic	systemic.html	3	quotes	The World Empire enforces World Peace	Yuval Noah Harari
+technology	technology.html	3	quotes	My brain felt hungry	Ezra Klein
+technology	technology.html	3	quotes	Social media is hyperactive	Ian Bogost
+technology	technology.html	3	quotes	To distract the watchdog of the mind	Marshall McLuhan
+technology	technology.html	3	quotes	Where the Puck is Going to Be	Steve Jobs
+tools	tools.html	3	quotes	A bicycle for our minds	Steve Jobs
+value creation	value-creation.html	3	quotes	An agenda of ambition and hope	Emmanuel Macron
+value creation	value-creation.html	3	quotes	Capitalists who worship only at the feet of capitalism	Herb Bowie
+value creation	value-creation.html	3	quotes	Economics is essentially a question of design	Kate Raworth
+value creation	value-creation.html	3	quotes	Economies that make us thrive	Kate Raworth
+value creation	value-creation.html	3	quotes	Exponential growth in a finite world	Kenneth Boulding
+value creation	value-creation.html	3	quotes	The growth of firms	Edith Penrose
+value creation	value-creation.html	3	quotes	The increase of wealth is not boundless	John Stuart Mill
+value creation	value-creation.html	3	quotes	Invest in your employees	Jasmine Donovan
+value creation	value-creation.html	3	quotes	It's the rich class that's winning	Warren Buffett
+value creation	value-creation.html	3	quotes	Lean	Jim Womack
+value creation	value-creation.html	3	quotes	Liberalism is not Socialism	Winston Churchill
+value creation	value-creation.html	3	quotes	Life is a series of daring adventures from a secure base	David Brooks
+value creation	value-creation.html	3	quotes	Luxuries tend to become necessities	Yuval Noah Harari
+value creation	value-creation.html	3	quotes	Managing our planetary household	Kate Raworth
+value creation	value-creation.html	3	quotes	A Man of Value	Albert Einstein
+value creation	value-creation.html	3	quotes	Only Two Sources of Real Wealth	Dorothy L. Sayers
+value creation	value-creation.html	3	quotes	The Power of Stakeholder Capitalism	Larry Fink
+value creation	value-creation.html	3	quotes	A Progressive Annual Tax on Capital	Thomas Piketty
+value creation	value-creation.html	3	quotes	Shareholder Value	Jack Welch
+value creation	value-creation.html	3	quotes	Technological Unemployment	John Maynard Keynes
+value creation	value-creation.html	3	quotes	We need governments to provide clear pathways	Larry Fink
+value creation	value-creation.html	3	quotes	Workers demanding more from their employers	Larry Fink
+value creation	value-creation.html	3	quotes	A Work Ethic Gone Mad	Matthew Stewart
+value creation	value-creation.html	3	quotes	Work, Soul and Life	Albert Camus
+value creation	value-creation.html	3	quotes	Worshipping the divine right of capital	Tim O'Reilly
+value creation	value-creation.html	3	quotes	The yen to work drops in flat economies	Edward Luce
+value creation	value-creation.html	3	quotes	You have to create more than you consume	Jeff Bezos
+wonder	wonder.html	3	quotes	Art and Spirit	Ken Wilber
+wonder	wonder.html	3	quotes	Bathing in mystery and confusion	Carl Sagan
+wonder	wonder.html	3	quotes	Competition is not separable from endless flavors of cooperation	Richard Powers
+wonder	wonder.html	3	quotes	Dreams Come True	John Updike
+wonder	wonder.html	3	quotes	Finish every day and be done with it	Ralph Waldo Emerson
+wonder	wonder.html	3	quotes	The Golden Eternity	Jack Kerouac
+wonder	wonder.html	3	quotes	The Half-Finished Heaven	Tomas Tranströmer
+wonder	wonder.html	3	quotes	A mind is blown	Michael Chabon
+wonder	wonder.html	3	quotes	The Mysterious	Albert Einstein
+wonder	wonder.html	3	quotes	Mysticism has kept men sane	G. K. Chesterton
+wonder	wonder.html	3	quotes	The original naiveté	Henri Matisse
+wonder	wonder.html	3	quotes	Start with romance and build to a reality	Ray Bradbury
+wonder	wonder.html	3	quotes	A strange magic in human-made things	J. K. Rowling
+wonder	wonder.html	3	quotes	This dazed and dramatic ignorance	G. K. Chesterton
+wonder	wonder.html	3	quotes	This Highest Kind of Religious Feeling	Albert Einstein
+wonder	wonder.html	3	quotes	This strange hankering for play and surprise	Steven Johnson
+wonder	wonder.html	3	quotes	The universe is queerer than we can suppose	J. B. S. Haldane
+wonder	wonder.html	3	quotes	We are in Eden still	G. K. Chesterton
+wonder	wonder.html	3	quotes	We shall see the sky sparkling with diamonds	Anton Chekhov
+wonder	wonder.html	3	quotes	Wonderment is the first passion of all	René Descartes
+wonder	wonder.html	3	quotes	The wonder remains	Alfred North Whitehead
+wonder	wonder.html	3	quotes	The World is a Wonderfully Weird Place	Tom Robbins
+written word	written-word.html	3	quotes	Amusing ourselves to death	Neil Postman
+written word	written-word.html	3	quotes	A book is a man's best friend	Groucho Marx
+written word	written-word.html	3	quotes	Books are key to understanding the world	Carl Sagan
+written word	written-word.html	3	quotes	A continuous effort to make sense of things	Robert Darnton
+written word	written-word.html	3	quotes	The Enormous Extension of our Being	C. S. Lewis
+written word	written-word.html	3	quotes	Ignorant and Free	Thomas Jefferson
+written word	written-word.html	3	quotes	Myth-Makers	Kurt Vonnegut
+written word	written-word.html	3	quotes	The only sensible procedure for a critic	W. H. Auden
+written word	written-word.html	3	quotes	The Only Sign of Mental Activity	Margery Allingham
+written word	written-word.html	3	quotes	Politics and the Debasement of Language	George Orwell
+written word	written-word.html	3	quotes	Symbolic Language	David Christian
+written word	written-word.html	3	quotes	Television mesmerizes people	Eric Braverman
+written word	written-word.html	3	quotes	Terrible with raisins in it	Dorothy Parker
+written word	written-word.html	3	quotes	That Magical Honeycomb of Words	Tom Robbins
+written word	written-word.html	3	quotes	Unarmed Truth and Unconditional Love	Martin Luther King Jr.
+written word	written-word.html	3	quotes	We Need a Place to Stand	John Bacon and Ed Zeiders
+written word	written-word.html	3	quotes	When I get a little money I buy books	Desiderius Erasmus

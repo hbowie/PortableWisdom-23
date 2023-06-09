@@ -1,0 +1,5 @@
+<?output "../meta/quotes.txt"?>
+Seq	Type	Folder	Title	Date Added	Author	Content
+<?nextrec?>
+3	quote	quotes	=$title$=	=$date-added$=	=$author$=	=$body&q$=
+<?loop?>

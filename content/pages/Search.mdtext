@@ -1,0 +1,21 @@
+Title:  Search
+
+Path:   search.html
+
+Body:
+
+## Search the Site
+
+<div class="pr-content">
+</div>
+<form action="https://duckduckgo.com/" method="get" id="form-search">
+<label for="input-search">Enter your search criteria:</label>
+<input type="text" name="q" id="input-search">
+<input type="hidden" name="sites" value="practopian.org">
+<button type="submit" class="btn btn-primary" id="submit-search">Search</button>
+</form>
+<div id="search-results">
+</div>
+<script src="js/search-meta"></script>
+<script src="js/search.js"></script>
+
