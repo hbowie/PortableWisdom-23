@@ -1,5 +1,5 @@
 Seq	Type	Folder	Title	Date Added	Author	Content
-1	model	models	This Is How We Make Things Better			"All living things are interested in improvement, whether it's improving ourselves, our society, our processes, our products, or our species.
+1	model	models	This Is How We Make Things Better	2023-06-03 15:17:11 -0700		"All living things are interested in improvement, whether it's improving ourselves, our society, our processes, our products, or our species.
 
 But how does improvement work?
 
@@ -10,9 +10,9 @@ Many of these come from the process of [natural selection](https://en.wikipedia.
 But others are unique to improvement efforts undertaken by humans, with our abilities to perform analysis and make predictions, and are drawn from things like the [scientific method](https://en.wikipedia.org/wiki/Scientific_method), the [PDCA](https://en.wikipedia.org/wiki/PDCA) method, and the discipline of [configuration management](https://en.wikipedia.org/wiki/Configuration_management). 
 
 When working on improvement efforts, one should consider all of these."
-1	model	models	Pick Some Type of Thing to Improve			"In order to improve something, you need to have some type of thing to improve. The thing could be a primate, a society, a note-taking application, a business, a business process, an airplane or a laptop computer. A type of thing will always have some [[function]].
+1	model	models	Pick Some Type of Thing to Improve	2023-06-03 17:16:49 -0700		"In order to improve something, you need to have some type of thing to improve. The thing could be a primate, a society, a note-taking application, a business, a business process, an airplane or a laptop computer. A type of thing will always have some [[function]].
 "
-1	model	models	Define the Thing's Function			"A [[type of thing]] must have some function that it performs within a particular [[operating environment]]. 
+1	model	models	Define the Thing's Function	2023-06-03 15:17:11 -0700		"A [[type of thing]] must have some function that it performs within a particular [[operating environment]]. 
 
 That is, it must use some inputs and produce some outputs. 
 
@@ -21,55 +21,55 @@ Some outputs we can identify as useful (in some sense), while others may be cate
 Often, amounts of these inputs and outputs can be quantified. 
 
 In order to improve something, we generally want to minimize the inputs required, minimize the waste and damaging output, and maximize the useful output."
-1	model	models	Define the Thing's Operating Environment			"We must make assumptions/stipulations about a type of thing's operating environment in order to improve its [[function]]. 
+1	model	models	Define the Thing's Operating Environment	2023-06-03 15:17:11 -0700		"We must make assumptions/stipulations about a type of thing's operating environment in order to improve its [[function]]. 
 
 If an operating environment varies significantly from these assumptions, then the type of thing may no longer [[perform]] as desired."
-1	model	models	Determine Performance Measures			"We can think of performance as a way of measuring how well a type of thing fulfills its [[function]]. 
+1	model	models	Determine Performance Measures	2023-06-03 15:17:11 -0700		"We can think of performance as a way of measuring how well a type of thing fulfills its [[function]]. 
 
 For living things, performance is typically measured by population size over time.
 
 Performance measures must generally consider both inputs and outputs."
-1	model	models	Analysis			"For improvement efforts conducted by humans, an analysis step must be introduced. Such an analysis would consider the desired [[functions]] to be performed, the associated [[performance measures]], alternative ways of performing those functions, and trade-offs between those alternatives. 
+1	model	models	Analysis	2023-06-03 15:17:11 -0700		"For improvement efforts conducted by humans, an analysis step must be introduced. Such an analysis would consider the desired [[functions]] to be performed, the associated [[performance measures]], alternative ways of performing those functions, and trade-offs between those alternatives. 
 "
-1	model	models	Consider Relationships to Others			"When improving one [[type of thing]], relationships to others often come into play. 
+1	model	models	Consider Relationships to Others	2023-06-03 15:17:11 -0700		"When improving one [[type of thing]], relationships to others often come into play. 
 "
-1	model	models	Cooperation			"Some types of things often work out cooperative arrangements with other types of things, for their mutual benefit. The output from one type of thing, for example, might provide the input to some other type.
+1	model	models	Cooperation	2023-06-03 15:17:11 -0700		"Some types of things often work out cooperative arrangements with other types of things, for their mutual benefit. The output from one type of thing, for example, might provide the input to some other type.
 "
-1	model	models	Reciprocity			"A thing may enter into an arrangement of reciprocity with another, with the understanding that provision of some sort of benefits will be repayed in kind at some future date. 
+1	model	models	Reciprocity	2023-06-08 12:45:18 -0700		"A thing may enter into an arrangement of reciprocity with another, with the understanding that provision of some sort of benefits will be repayed in kind at some future date. 
 "
-1	model	models	Specialization			"Different types of things often specialize their functions in order to achieve more fruitful cooperation. 
+1	model	models	Specialization	2023-06-03 15:17:11 -0700		"Different types of things often specialize their functions in order to achieve more fruitful cooperation. 
 
 Think of the queen bee in a hive, or the various types of cells and organs within a complex organism, or the roles within a company, or the various branches of government within a state."
-1	model	models	Composition			"One form of cooperation happens when a larger type of thing is composed of a number of smaller types of things. These could be atoms within a molecule, cells in an organism, states in a nation, departments in a company, or individual humans within a team. 
+1	model	models	Composition	2023-06-03 15:17:11 -0700		"One form of cooperation happens when a larger type of thing is composed of a number of smaller types of things. These could be atoms within a molecule, cells in an organism, states in a nation, departments in a company, or individual humans within a team. 
 
 In all of these cases, some function is achieved or improved through joint cooperative composition.
 
 In this sort of composition, the component pieces generally exhibit some degree of specialization."
-1	model	models	Differentiation			"In order to achieve superior performance, some types of things become clearly different from other types of things with similar functions, often by adopting different strategies. For example, some species produce great numbers of offspring that suffer relatively high mortality rates, while other species produce smaller numbers of offspring that have lower mortality rates. In a similar way, different companies seek to differentiate themselves from their competitors in important ways. For example, one company might produce less costly products with less distinctive design traits, while another company might produce more expensive products with more distinctive designs. 
+1	model	models	Differentiation	2023-06-03 15:17:11 -0700		"In order to achieve superior performance, some types of things become clearly different from other types of things with similar functions, often by adopting different strategies. For example, some species produce great numbers of offspring that suffer relatively high mortality rates, while other species produce smaller numbers of offspring that have lower mortality rates. In a similar way, different companies seek to differentiate themselves from their competitors in important ways. For example, one company might produce less costly products with less distinctive design traits, while another company might produce more expensive products with more distinctive designs. 
 "
-1	model	models	Type Design			"In order to improve a [[type of thing]], one must have a means of reliably producing such a thing, and this usually means having the instructions needed to produce or replicate it. For biological organisms, this is the genome. For a software application, it is the source code. For an airplane, this is a large collection of design documents, such as drawings and parts lists (or 3-D models). For a nation, it is a constitution. 
+1	model	models	Type Design	2023-06-03 15:17:11 -0700		"In order to improve a [[type of thing]], one must have a means of reliably producing such a thing, and this usually means having the instructions needed to produce or replicate it. For biological organisms, this is the genome. For a software application, it is the source code. For an airplane, this is a large collection of design documents, such as drawings and parts lists (or 3-D models). For a nation, it is a constitution. 
 
 Note that a type design must always be specified using a known type design language."
-1	model	models	Type Design Language			"In order to make use of a [[type design]], there must first exist some language(s) that can be used to reliably and repeatably interpret such a set of instructions, in order to produce more instances of the [[type of thing]]. 
+1	model	models	Type Design Language	2023-06-03 15:17:11 -0700		"In order to make use of a [[type design]], there must first exist some language(s) that can be used to reliably and repeatably interpret such a set of instructions, in order to produce more instances of the [[type of thing]]. 
 "
-1	model	models	Change			"In order to improve a [[type of thing]], we must make some change to it. 
+1	model	models	Change	2023-06-03 15:17:11 -0700		"In order to improve a [[type of thing]], we must make some change to it. 
 
 In other words, we must introduce some variation. 
 
 This will generally consist of some change to the [[type design]] of the thing.
 
 Note that a change can be accidental and made at random (as is the case with biological evolution), or it can be made based on some [[analysis]], with some forethought and anticipation of the consequences (as is generally the case with human design)."
-1	model	models	Retention			"[[Change]] can bring both opportunities and danger, and so our brains are finely attuned to pay special attention to things that are changing. 
+1	model	models	Retention	2023-06-07 15:17:49 -0700		"[[Change]] can bring both opportunities and danger, and so our brains are finely attuned to pay special attention to things that are changing. 
 
 We also associate change with progress, and so it is easy for us to think of change as the most important element of improvement. 
 
 But this impression is deceptive. Some degree of change is essential, but the amount of change that is introduced is generally dwarfed by the numbers of characteristics that are retained without modification. 
 
 In order for things to continue to fulfill their functions, design attributes that work must largely be retained. Changing everything at once is generally a recipe for disaster. As in classic scientific experimentation, it's best to keep all of the variables constant except one."
-1	model	models	Production			"After making [[changes]] to a [[type design]], more instances of the [[type of thing]] must be produced -- or reproduced, if you will -- in order to assess the [[performance]] of the changes. 
+1	model	models	Production	2023-06-03 15:17:11 -0700		"After making [[changes]] to a [[type design]], more instances of the [[type of thing]] must be produced -- or reproduced, if you will -- in order to assess the [[performance]] of the changes. 
 
 We could think of the initial instances produced after some change to the type design as prototypes."
-1	model	models	Competition			"In order to determine whether some [[change]] has improved the [[performance]] of a [[type of thing]], some form of competition must take place. 
+1	model	models	Competition	2023-06-03 15:17:11 -0700		"In order to determine whether some [[change]] has improved the [[performance]] of a [[type of thing]], some form of competition must take place. 
 
 This can be competition between a new version of a thing and an older version, using some sort of reliable [[performance]] measures. 
 
@@ -82,30 +82,30 @@ Something similar occurs in competition between companies and products in a mark
 In sports, such testing is ultimately performed on the playing field, as individuals and groups compete with each other.
 
 In science and engineering, such competition often takes place in a lab, and is referred to as testing."
-1	model	models	Change Disposition			"The results of the [[competition]] will generally result in a [[change]] disposition: a decision to either retain the change as an improvement, or to reject it. 
+1	model	models	Change Disposition	2023-06-03 15:17:11 -0700		"The results of the [[competition]] will generally result in a [[change]] disposition: a decision to either retain the change as an improvement, or to reject it. 
 "
-1	model	models	Change Incorporation			"If the [[Change Disposition]] has resulted in acceptance of the [[change]] as an improvement, then the [[type design]] used for [[production]] of additional units will generally be modified to incorporate the change.
+1	model	models	Change Incorporation	2023-06-03 15:17:11 -0700		"If the [[Change Disposition]] has resulted in acceptance of the [[change]] as an improvement, then the [[type design]] used for [[production]] of additional units will generally be modified to incorporate the change.
 "
-1	model	models	The Cynefin Framework			"[[Dave Snowden]]'s [Cynefin framework][cynefin] offers a useful guide to differing approaches that are appropriate for situations with varying degrees of certainty. 
+1	model	models	The Cynefin Framework	2023-06-03 15:17:11 -0700		"[[Dave Snowden]]'s [Cynefin framework][cynefin] offers a useful guide to differing approaches that are appropriate for situations with varying degrees of certainty. 
 
 [cynefin]: https://en.wikipedia.org/wiki/Cynefin_framework
 
 The Cynefin framework suggests four different approaches, starting with situations of high certainty, and proceeding to situations with progressively lower degrees of certainty. 
 
 Leaders and decision-makers tend to get into trouble by estimating the degree of certainty in a situation to be higher than it actually is."
-1	model	models	Clear Situations			"In Clear situations, the appropriate approach is to Sense, Categorize and then Respond, making use of an established best practice. 
+1	model	models	Clear Situations	2023-06-03 15:17:11 -0700		"In Clear situations, the appropriate approach is to Sense, Categorize and then Respond, making use of an established best practice. 
 
 In other words, a mechanical or proceduralized response is most appropriate."
-1	model	models	Complicated Situations			"In Complicated situations, the appropriate approach is to Sense, Analyze and then Respond, making use of expert knowledge. 
+1	model	models	Complicated Situations	2023-06-03 15:17:11 -0700		"In Complicated situations, the appropriate approach is to Sense, Analyze and then Respond, making use of expert knowledge. 
 
 In  other words, some serious analysis is required, and the right answer cannot simply be selected from a number of predetermined choices."
-1	model	models	Complex Situations			"In Complex situations, the recommended approach is to Probe, Sense and then Respond, allowing new knowledge to emerge. 
+1	model	models	Complex Situations	2023-06-03 15:17:11 -0700		"In Complex situations, the recommended approach is to Probe, Sense and then Respond, allowing new knowledge to emerge. 
 
 In other words,  analysis based on existing knowledge is not enough, and some experimentation is called for."
-1	model	models	Chaotic Situations			"In Chaotic situations, the appropriate approach is to Act, Sense and then Respond, learning and adjusting as you go. 
+1	model	models	Chaotic Situations	2023-06-03 15:17:11 -0700		"In Chaotic situations, the appropriate approach is to Act, Sense and then Respond, learning and adjusting as you go. 
 
 In other words, something unexpected has happened, you are in crisis mode,  and there is no opportunity for analysis or experimentation -- immediate action is necessary."
-1	model	models	Core Design Principles for the Efficacy of Groups			"These are eight principles that, when followed, improve the effectiveness of human groups.
+1	model	models	Core Design Principles for the Efficacy of Groups	2023-06-03 15:17:11 -0700		"These are eight principles that, when followed, improve the effectiveness of human groups.
 
 And when we use the word ""group,"" I take this to mean a group of humans deriving perceived benefit from a shared set of resources, working towards a common goal, with some unifying identity, and with established means of interaction.
 
@@ -126,23 +126,23 @@ I believe these principles to be universal and scalable to groups of any size.
 [wilson]: https://thisviewoflife.com/profile/david-sloan-wilson/
 
 Here, then, are the eight core design principles for the efficacy of groups."
-1	model	models	Shared Identity and Purpose			"A group should have a strong identity with clearly defined boundaries and a unified sense of purpose. This includes a shared understanding of the team's goals, the boundaries of their resources, and the rights and obligations of being a team member.
+1	model	models	Shared Identity and Purpose	2023-06-03 15:17:11 -0700		"A group should have a strong identity with clearly defined boundaries and a unified sense of purpose. This includes a shared understanding of the team's goals, the boundaries of their resources, and the rights and obligations of being a team member.
 "
-1	model	models	Proportional Equivalence Between Benefits and Costs			"Group members must be fairly rewarded based on their contributions.
+1	model	models	Proportional Equivalence Between Benefits and Costs	2023-06-03 15:17:11 -0700		"Group members must be fairly rewarded based on their contributions.
 "
-1	model	models	Fair and Inclusive Decision-Making			"Everyone gets a chance to participate in decision-making, and decisions are made in a way recognized by all to be fair. Also, decisions are made at the lowest possible level, both to confer a sense of empowerment, but also to allow decisions to be made based on local circumstances best known and appreciated by the lower-level group.
+1	model	models	Fair and Inclusive Decision-Making	2023-06-03 15:17:11 -0700		"Everyone gets a chance to participate in decision-making, and decisions are made in a way recognized by all to be fair. Also, decisions are made at the lowest possible level, both to confer a sense of empowerment, but also to allow decisions to be made based on local circumstances best known and appreciated by the lower-level group.
 "
-1	model	models	Monitoring of Group Norms			"The group must have a way of monitoring the behavior of members and detecting deviations from agreed-upon norms.
+1	model	models	Monitoring of Group Norms	2023-06-03 15:17:11 -0700		"The group must have a way of monitoring the behavior of members and detecting deviations from agreed-upon norms.
 "
-1	model	models	Graduated Sanctions			"When group norms are not followed, then sanctions should be applied, but should be done in a graduated fashion. For example, sanctions might start as friendly pressure from peers, but then may proceed to more serious consequences if negative behavior persists.
+1	model	models	Graduated Sanctions	2023-06-03 15:17:11 -0700		"When group norms are not followed, then sanctions should be applied, but should be done in a graduated fashion. For example, sanctions might start as friendly pressure from peers, but then may proceed to more serious consequences if negative behavior persists.
 "
-1	model	models	Fast and Fair Conflict Resolution			"When conflicts arise, teams must have a way to resolve them quickly and in a manner seen as fair.
+1	model	models	Fast and Fair Conflict Resolution	2023-06-03 15:17:11 -0700		"When conflicts arise, teams must have a way to resolve them quickly and in a manner seen as fair.
 "
-1	model	models	Local Autonomy			"Groups must have the freedom to conduct their own affairs, without undue external interference.
+1	model	models	Local Autonomy	2023-06-07 16:48:27 -0700		"Groups must have the freedom to conduct their own affairs, without undue external interference.
 "
-1	model	models	Polycentric Governance			"In large organizations that consist of multiple groups, relationships among groups must embody the same principles as the relationships among individuals within each group. This means that the core design principles defined above are scale-independent; that is, principles 1 - 7 apply to every scale of human social organization. 
+1	model	models	Polycentric Governance	2023-06-03 15:17:11 -0700		"In large organizations that consist of multiple groups, relationships among groups must embody the same principles as the relationships among individuals within each group. This means that the core design principles defined above are scale-independent; that is, principles 1 - 7 apply to every scale of human social organization. 
 "
-1	model	models	The Four Quadrants		Ken Wilber	"I originally came across this model in a book by [[authors/Ken Wilber|Ken Wilber]], titled *[[works/A Brief History of Everything|A Brief History of Everything]]*.
+1	model	models	The Four Quadrants	2023-06-03 17:48:18 -0700	Ken Wilber	"I originally came across this model in a book by [[authors/Ken Wilber|Ken Wilber]], titled *[[works/A Brief History of Everything|A Brief History of Everything]]*.
 
 It's become a foundational piece of Wilber's Integral Philosophy, something he terms *AQAL*, for *All Quadrants, All Levels*. 
 
@@ -206,7 +206,7 @@ This is the beauty of the Four Quadrants model, in that it gives us a complete p
 [salon]: http://www.salon.com/2008/04/28/ken_wilber/
 [toyota-culture]: http://www.amazon.com/exec/obidos/ASIN/0071492178/pagantuna-20
 [work]: http://www.amazon.com/Ken-Wilber/e/B000APH4W2/ref=sr_tc_2_0?qid=1351079953&sr=1-2-ent"
-1	model	models	Individual Subjective			"Each of us experiences a complex inner world of sensations, emotions, thoughts and feelings.
+1	model	models	Individual Subjective	2023-06-03 17:38:44 -0700		"Each of us experiences a complex inner world of sensations, emotions, thoughts and feelings.
 
 And while others may report having similar feelings -- or very different ones -- no one else can actually experience our inner world in the same way that we can.
 
@@ -221,49 +221,49 @@ When considering the multiple perspectives we can take regarding a thing, some o
 This is not to imply that subjective views are invalid, or unworthy of consideration -- far from it.
 
 The Individual Subjective is depicted in the upper left quadrant of the Four Quadrants diagram, and so is sometimes referred to simply as *UL*."
-1	model	models	Individual Objective			"An objective perspective views something from an outer, or exterior vantage point, and does so without being unduly influenced by the personal feelings or opinions of the observers.
+1	model	models	Individual Objective	2023-06-03 17:39:37 -0700		"An objective perspective views something from an outer, or exterior vantage point, and does so without being unduly influenced by the personal feelings or opinions of the observers.
 
 Unlike subjective perspectives, other objective observers should be able to put themselves in our shoes, and make the same observations that we have, from the same perspective.
 
 One of the advantages of an objective perspective is that multiple independent observers should be able to agree on the characteristics or attributes of an object being observed, and can therefore reach agreement on what we generally describe as the facts of the matter.
 
 The Individual Objective is depicted in the upper right quadrant of the diagram, and so is sometimes referred to simply as *UR*."
-1	model	models	Social Subjective			"Humans also have subjective experiences of the societies that we form, and the groups in which we participate. Because these experiences are generally shared, we can refer to this sort of perspective as an *intersubjective* one.
+1	model	models	Social Subjective	2023-06-03 17:42:04 -0700		"Humans also have subjective experiences of the societies that we form, and the groups in which we participate. Because these experiences are generally shared, we can refer to this sort of perspective as an *intersubjective* one.
 
 Each one of us is a member of one or more groups. We may be part of a family, part of a team, part of an organization, part of a state. And such groups tend to have their own special perspectives, and their own sets of interests. And members of such groups tend to share certain attributes of their interior worlds, such as a common set of values.  
 
 Elements of our cultures -- shared symbols and stories and other artifacts -- help to bind us together into closely knit societies by encouraging and shaping common inner thoughts and feelings about the forms of our societies, and the ways in which we work together.
 
 The Social Subjective is depicted in the lower left quadrant of the diagram, and so is sometimes referred to simply as *LL*."
-1	model	models	Social Objective			"This is an objective view, not of a single individual, but of a collective, or what we might call a society, including observations of social systems as members of the society interact with each other. 
+1	model	models	Social Objective	2023-06-03 17:43:31 -0700		"This is an objective view, not of a single individual, but of a collective, or what we might call a society, including observations of social systems as members of the society interact with each other. 
 
 This is the perspective we take when viewing a human society from the exterior. This might include observation of their rituals, their institutions, their means of communication and means of value exchange.
 
 This is sometimes called an *interobjective* perspective. 
 
 The Social Objective is depicted in the lower right quadrant of the diagram, and so is sometimes referred to simply as *LR*."
-1	model	models	Motivational Factors for Complex Work			"In is book *[[works/Drive: The Surprising Truth About What Motivates Us|Drive: The Surprising Truth About What Motivates Us]]*, [[authors/Daniel H. Pink|Daniel H. Pink]] identified three vital sources of extrinsic motivation for individuals engaged in something more complex than simple, straightforward tasks. 
+1	model	models	Motivational Factors for Complex Work	2023-06-07 16:54:33 -0700		"In is book *[[works/Drive: The Surprising Truth About What Motivates Us|Drive: The Surprising Truth About What Motivates Us]]*, [[authors/Daniel H. Pink|Daniel H. Pink]] identified three vital sources of extrinsic motivation for individuals engaged in something more complex than simple, straightforward tasks. 
 
 Many people have heard of these three factors via this [lively video][rsa] created by RSA Animate. 
 
 BTW, I would point out that these factors are strongly correlated with some of the [[Core Design Principles for the Efficacy of Groups]], with [[Self-Determination Theory]] and with the [[the DRAMMA List of Psychological Needs]].
 
 [rsa]: https://youtu.be/u6XAPnuFjJc"
-1	model	models	Autonomy			"*Autonomy* can be thought of as the desire to direct our own lives -- including the work that we perform as part of a group.
+1	model	models	Autonomy	2023-06-07 16:57:27 -0700		"*Autonomy* can be thought of as the desire to direct our own lives -- including the work that we perform as part of a group.
 "
-1	model	models	Mastery			"*Mastery* can be thought of as the urge to get better and better at something that matters.
+1	model	models	Mastery	2023-06-07 16:57:58 -0700		"*Mastery* can be thought of as the urge to get better and better at something that matters.
 "
-1	model	models	Purpose			"*Purpose* can be thought of as the yearning to do what we do in the service of something larger than ourselves.
+1	model	models	Purpose	2023-06-07 16:58:23 -0700		"*Purpose* can be thought of as the yearning to do what we do in the service of something larger than ourselves.
 "
-1	model	models	Self-Determination Theory			"Self-Determination Theory identifies three basic psychological needs that must be satisfied to foster well-being and health. 
+1	model	models	Self-Determination Theory	2023-06-07 17:02:04 -0700		"Self-Determination Theory identifies three basic psychological needs that must be satisfied to foster well-being and health. 
 
 Notice the similarity between this theory and the [[Motivational Factors for Complex Work]]."
-1	model	models	Autonomy - SDT			"People need to feel essential control of their own behaviors and goals; however this does not mean being entirely independent of others. 
+1	model	models	Autonomy - SDT	2023-06-07 17:03:43 -0700		"People need to feel essential control of their own behaviors and goals; however this does not mean being entirely independent of others. 
 
 Notice the similarity to [[Autonomy]] and [[Local Autonomy]]."
-1	model	models	Competence			"People need to feel their ability to control the outcome of tasks and to experience a sense of mastery.  
+1	model	models	Competence	2023-06-07 17:04:25 -0700		"People need to feel their ability to control the outcome of tasks and to experience a sense of mastery.  
 
 Note the similarity to [[Mastery]]."
-1	model	models	Relatedness			"People need to experience a sense of belonging and attachment to other people.
+1	model	models	Relatedness	2023-06-07 17:05:02 -0700		"People need to experience a sense of belonging and attachment to other people.
 
 Notice the similarity to [[Purpose]]."

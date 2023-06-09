@@ -1,5 +1,5 @@
 Seq	Type	Folder	Title	Date Added	Author	Content
-2	song	songs	800 Pound Jesus		Billy Maddox and Paul Thorn	"I'd been aware of [Paul Thorn][thorn] for some time, but didn't really become a fan until I saw him live last summer at [The Ark][ark] in Ann Arbor. I convinced an old University of Michigan roommate to come with me while I was in town, as an opportunity to catch up, but we were both caught off guard by how much we loved Thorn's show.
+2	song	songs	800 Pound Jesus	2022-08-20 16:36:32 -0700	Billy Maddox and Paul Thorn	"I'd been aware of [Paul Thorn][thorn] for some time, but didn't really become a fan until I saw him live last summer at [The Ark][ark] in Ann Arbor. I convinced an old University of Michigan roommate to come with me while I was in town, as an opportunity to catch up, but we were both caught off guard by how much we loved Thorn's show.
 
 I've been listening to Thorn's recordings regularly since then, and can now bear witness to [a great catalog][cd] that stands up to deep and repeated listening.  
 
@@ -142,7 +142,7 @@ Just don't make the mistake of taking him at face value. Despite his obscurity, 
 [tour]: http://www.paulthorn.com/tour
 
 [thorn]: https://www.allmusic.com/artist/paul-thorn-mn0000032409/biography"
-2	song	songs	All Along The Watchtower		Bob Dylan	"Let’s start by looking at the lyrics. This song came off of Bob Dylan’s
+2	song	songs	All Along The Watchtower	2022-08-21 10:47:49 -0700	Bob Dylan	"Let’s start by looking at the lyrics. This song came off of Bob Dylan’s
 *John Wesley Harding* album, which marked a radical departure from his previous recordings. His older compositions often had many more than the standard three verses of popular songs — “Positively Fourth Street” boasted twelve. His lyrics had often been pointed and sharply critical.
 His use of language was unusual, and called attention to itself by juxtaposing words and images not usually associated with each other.
 
@@ -315,7 +315,7 @@ musician, the accompaniment extending and reinforcing the meaning and
 drama of the lyrics, and showcasing the unique possibilities of the
 electric guitar along with nothing more than a bass, drum kit and
 acoustic guitar."
-2	song	songs	And When I Die		Laura Nyro	"As children, our thoughts about death are stuff of dreams and fairy tales. As adults we learn to suppress these thoughts because we are busy getting on with things. But as teenagers, in this transition between nursery rhymes and real life, we tend to approach this topic with a frankness and curiosity that can be somewhat startling. 
+2	song	songs	And When I Die	2022-08-21 10:48:02 -0700	Laura Nyro	"As children, our thoughts about death are stuff of dreams and fairy tales. As adults we learn to suppress these thoughts because we are busy getting on with things. But as teenagers, in this transition between nursery rhymes and real life, we tend to approach this topic with a frankness and curiosity that can be somewhat startling. 
 
 Laura Nyro wrote her song ""[And When I Die][apple]"" at the age of 17, and her refreshing treatment of the subject shows none of the reverence or piety that we learn to adopt as adults.
 
@@ -383,7 +383,7 @@ It may be helpful as well to note that Nyro's later life and death did indeed mi
 [enyc]: https://ethical.nyc
 
 [pedia]: https://en.wikipedia.org/wiki/Laura_Nyro"
-2	song	songs	Angel from Montgomery		John Prine	"This song was released on John Prine's first, self-titled, album, when the singer-songwriter was just twenty-five years of age. Prine grew up near Chicago, and studied at that city's [Old Town School of Folk Music](https://www.oldtownschool.org) (a fine establishment I've visited several times, and one that is still delivering concerts and classes today). 
+2	song	songs	Angel from Montgomery	2022-08-17 13:52:44 -0700	John Prine	"This song was released on John Prine's first, self-titled, album, when the singer-songwriter was just twenty-five years of age. Prine grew up near Chicago, and studied at that city's [Old Town School of Folk Music](https://www.oldtownschool.org) (a fine establishment I've visited several times, and one that is still delivering concerts and classes today). 
 
 Prine was working as a mailman before turning to music as a full-time career. He remembers delivering newspapers to a Baptist old peoples home where he had to go room-to-room, and there developed something of an affinity for our aging population. 
 
@@ -469,7 +469,7 @@ There are certainly other renditions of this song out there. But, at least to my
 On a personal note, my mother-in-law is now ninety-four, and in a residence much like the one Prine used to visit as a postman. She's not familiar with this song, but I can't help listening to it play between my ears whenever I pay her a visit. 
 
 Not sure it gets much better than this when it comes to the composition and delivery of a song."
-2	song	songs	Box of Rain		Robert Hunter and Phil Lesh	"The music for this song was composed by Grateful Dead bassist Phil Lesh, with lyrics by Robert Hunter. 
+2	song	songs	Box of Rain	2022-08-21 10:34:29 -0700	Robert Hunter and Phil Lesh	"The music for this song was composed by Grateful Dead bassist Phil Lesh, with lyrics by Robert Hunter. 
 
 Hunter wrote the words in response to a request from Lesh to help write a song he could sing to his dying father. The song first appeared on the album *American Beauty*, released in 1970. 
 
@@ -576,7 +576,7 @@ This is a great song, but the original studio recording is also a great performa
 It's hard to think of another song or songwriter or band that would even attempt to deliver such a delicate, resonant impression as this one, let alone one that could do it so masterfully. 
 
 Even if the group had never played a single live show, this recording would be one for the ages."
-2	song	songs	Christmas (Baby Please Come Home)		Ellie Greenwich, Jeff Barry and Phil Spector	"The lyrics in this song work so well because of their simple understatement. As in the title, the single word “Christmas” is repeated by the background choir to begin each line of the song. Darlene Love then describes, in the briefest of sketches, familiar elements of Christmas: “The snow’s coming down,” “Lots of people around,” “Pretty
+2	song	songs	Christmas (Baby Please Come Home)	2022-08-31 09:23:47 -0700	Ellie Greenwich, Jeff Barry and Phil Spector	"The lyrics in this song work so well because of their simple understatement. As in the title, the single word “Christmas” is repeated by the background choir to begin each line of the song. Darlene Love then describes, in the briefest of sketches, familiar elements of Christmas: “The snow’s coming down,” “Lots of people around,” “Pretty
 lights on the trees,” etc. Each verse ends with the same line: “(Christmas) Baby, Please Come Home!” 
 
 The chorus fills in the sketchiest of details.
@@ -680,7 +680,7 @@ example of the [new aesthetic offered by rock music](https://www.reasontorock.co
 BTW, much like Frank Capra's *It's A Wonderful Life*, the initial release of the original recording did not have any significant commercial success, but has since become something of a Christmas standard. The song was later covered by many artists, and David Letterman invited Darlene Love to perform the song on his annual Christmas show every year for 29 years, beginning in 1986. 
 
 *Originally published at [ReasonToRock.com](https://www.reasontorock.com/tracks/xmas.html)*"
-2	song	songs	Christmas Song		Dave Matthews	"Like [Robbie Robertson and The Band][rr], [Dave Matthews][dm] seeks here to craft a retelling of the story of Jesus that might cause us to look at this old tale from a fresh perspective, and consider anew its core meaning. 
+2	song	songs	Christmas Song	2023-06-06 11:49:00 -0700	Dave Matthews	"Like [Robbie Robertson and The Band][rr], [Dave Matthews][dm] seeks here to craft a retelling of the story of Jesus that might cause us to look at this old tale from a fresh perspective, and consider anew its core meaning. 
 
 This retelling is a bit more ambitious than Robertson's. Like [Jackson Browne][jb], Matthews is not an avowed Christian, and yet he finds deep meaning in this story. 
 
@@ -785,7 +785,7 @@ Or see the complete list of [Christmas Favorites from The Practical Utopian](chr
 [luther]: https://music.apple.com/us/album/christmas-song-live/261797601?i=261798003
 [rd]: https://practopian.org/appreciation/father-christmas-song-by-the-kinks.html
 [rr]: https://practopian.org/appreciation/christmas-must-be-tonight.html"
-2	song	songs	Come On In My Kitchen		Robert Johnson	"This song is a great example of Johnson’s craft. Let’s look at the
+2	song	songs	Come On In My Kitchen	2022-08-21 10:38:54 -0700	Robert Johnson	"This song is a great example of Johnson’s craft. Let’s look at the
 seemingly simple lyrics.
 
 > Mmm mmm mmm mmm mmm mmm mmm mmm mmm mmm mmm…  
@@ -917,7 +917,7 @@ As one of his students admitted:
 — Bob Dylan [][#Dylan:2004] 
 
 [#Dylan:2004]: Bob Dylan. *Chronicles: Volume One*. Simon & Schuster, 2004."
-2	song	songs	Come On Up to the House		Tom Waits	"This song was written by [Tom Waits](http://www.tomwaits.com), and his performance of the song on his 1999 album *Mule Variations* is certainly worth hearing. His delivery sounds like that of a down-at-the-heels preacher delivering the holy message at a revival meeting, or perhaps on a street corner, with a Salvation Army style brass band playing in the background. He delivers his sermon with an unarguable power and authority. 
+2	song	songs	Come On Up to the House	2022-08-21 13:01:30 -0700	Tom Waits	"This song was written by [Tom Waits](http://www.tomwaits.com), and his performance of the song on his 1999 album *Mule Variations* is certainly worth hearing. His delivery sounds like that of a down-at-the-heels preacher delivering the holy message at a revival meeting, or perhaps on a street corner, with a Salvation Army style brass band playing in the background. He delivers his sermon with an unarguable power and authority. 
 
 My introduction to the song, however, came during the encore performance by [Sarah Jarosz](https://www.sarahjarosz.com) at the [Tractor Tavern](http://www.tractortavern.com) a couple of years ago. I can still remember the looks on the faces of Sarah and her band as they delivered the song to the standing, swaying crowd, seemingly amazed at the depth of feeling and the bond between performer and audience being wrought within the house that night, as all present returned again and again to the chorus with increasing emotional commitment. 
 
@@ -1011,7 +1011,7 @@ And also, from his book *Religion and Science*:
 For me, this song hints at the same type of mysterious, transcendent unity that Einstein describes. 
 
 I'm going to file this one under ""Hymns of Secular Humanism,"" right along with ""[[Hallelujah]]"" by Leonard Cohen."
-2	song	songs	Education		Ray Davies	"Chief among this song’s many pleasures is Ray Davies’ largely
+2	song	songs	Education	2022-09-04 11:57:07 -0700	Ray Davies	"Chief among this song’s many pleasures is Ray Davies’ largely
 successful attempt to encapsulate the entire history of human
 civilization within the first three verses. The recording is also an
 excellent example of how Ray can change characters and perspectives many
@@ -1212,7 +1212,7 @@ suit the intent of the lyrics. As with many great rock recordings, the
 effect is one of breaking down artificial boundaries and limitations,
 sprawling past the normal guidelines, and breaking out of past
 constraints."
-2	song	songs	For What It's Worth		Stephen Stills	"The beginning of the song is a study in understatement. An electric guitar plays two notes, slowly repeated, with tremolo. The drums set up a quiet pulse-like beat. An acoustic guitar enters, strumming two chords, then beginning a quiet riff that is a definition of laid-back L.A. funk. Finally Steve Stills' voice enters, in a quiet, conversational tone.
+2	song	songs	For What It's Worth	2022-08-21 10:48:08 -0700	Stephen Stills	"The beginning of the song is a study in understatement. An electric guitar plays two notes, slowly repeated, with tremolo. The drums set up a quiet pulse-like beat. An acoustic guitar enters, strumming two chords, then beginning a quiet riff that is a definition of laid-back L.A. funk. Finally Steve Stills' voice enters, in a quiet, conversational tone.
 
 > There's something happening here.  
 > What it is ain't exactly clear.  
@@ -1271,7 +1271,7 @@ Rock is often accused of being loud, overbearing, aggressive and violent. And ye
 In retrospect, one has to give prophetic credit to Stills' song. It was only a few years later when Stills and Young, along with new partners Crosby and Nash, would release Young's composition ""Ohio."" Featuring the lyrics, ""Tin Soldiers and Nixon coming / We're finally on our own,"" and ending with the terrible refrain, ""Four dead in Ohio,"" the song memorialized four students who had been shot dead at Kent State University during a protest against the Viet Nam war. By this time, the violent confrontation and polarization warned of in ""For What It's Worth"" had sadly come to pass. 
 
 It's interesting to see how the presentation of ""For What It's Worth"" evolved in later years. The CSN&Y live album *Four Way Street* presents the same song with Stills accompanying himself on piano, and with vocals that are positively histrionic when compared with the laid-back singing of the original recording. By 1971, it seems, the emotional reserve of the original could no longer be maintained, even though the message still needed to be heard more than ever."
-2	song	songs	Fruitcakes		Jimmy Buffett	"From the Dictionary app on my iMac:
+2	song	songs	Fruitcakes	2022-08-21 10:48:10 -0700	Jimmy Buffett	"From the Dictionary app on my iMac:
 
 > fruitcake:
 > 1. A cake containing dried fruit and nuts.
@@ -1427,7 +1427,7 @@ And we can never have too much of that, can we?
 [network]: https://en.wikiquote.org/wiki/Network_%28film%29
 
 [snl]: https://en.wikipedia.org/wiki/Coneheads"
-2	song	songs	Girl From The North Country		Bob Dylan	"This is a deft example of the songwriter's art. 
+2	song	songs	Girl From The North Country	2022-08-21 10:48:11 -0700	Bob Dylan	"This is a deft example of the songwriter's art. 
 
 Dylan has such an inimitable bag of tricks that many of his songs are unmistakably marked as his, either through attitude, theme, use of language, unusual length, or some combination of these factors. 
 
@@ -1481,7 +1481,7 @@ And so this is, finally, I think, the message we are left with: that the depth o
 There are many great versions of this song to choose from. Dylan's original version was recorded in 1963, and released as the second track on *The Freewheelin' Bob Dylan*. Then a second version, a duet with Johnny Cash, appeared on *Nashville Skyline* in 1969. Cash liked the song so well that he included in on the list of essential songs he passed on to his daughter Rosanne, and so another version appears on her album, *The List*. Leon Russell and Joe Cocker also deliver the song as another duet on the 1970 album *Mad Dogs and Englishmen*. And admittedly the dramatic situation of the song, with one man talking to another about a girl that one of them once knew, certainly lends itself to a duet featuring two male voices. 
 
 For my money, though, it's hard to beat the version performed by Sam Bush on his live album *Ice Caps: Peaks of Telluride*, with Sam playing mandolin and accompanied by Jerry Douglas on dobro. Sam's singing is as poignant as one could wish, and the stinging traditional instrumentation adds an urgency to the song that emphasizes its emotional immediacy."
-2	song	songs	Hallelujah		Leonard Cohen	"The history of Leonard Cohen's song ""Hallelujah"" is a fascinating one. Cohen's songs had never really been embraced by the masses, and his first recording of ""Hallelujah"" in the early eighties was part of an album so lacking in obvious commercial appeal that the president of CBS Records responded to it by saying: ""What is this? This isn't pop music. We're not releasing it. This is a disaster.""
+2	song	songs	Hallelujah	2022-08-21 10:48:13 -0700	Leonard Cohen	"The history of Leonard Cohen's song ""Hallelujah"" is a fascinating one. Cohen's songs had never really been embraced by the masses, and his first recording of ""Hallelujah"" in the early eighties was part of an album so lacking in obvious commercial appeal that the president of CBS Records responded to it by saying: ""What is this? This isn't pop music. We're not releasing it. This is a disaster.""
 
 That recording was released, however, a little later on a small independent label, but few people took note of the album or of this particular song. Even for Cohen's small set of fans, it did not seem like a particularly memorable recording. 
 
@@ -1609,7 +1609,7 @@ Like every great artist, Cohen has changed the way in which we view the world, h
 [gkc]:        http://en.wikipedia.org/wiki/G._K._Chesterton
 
 [vu]:         http://www.reasontorock.com/artists/velvet_underground.html"
-2	song	songs	I Don't Like Half The Folks I Love		Paul Thorn and Billy Maddox	"I've spent some time lately working my way through *The Dawn of Everything: A New History of Humanity*, by Davids Graeber and Wengrow. It's a fascinating book, and a really rewarding read, but it's also a serious tome, clocking in at over 500 pages of text dense with facts and ideas, so it's not something I've been attempting all at one go. 
+2	song	songs	I Don't Like Half The Folks I Love	2022-09-20 09:55:40 -0700	Paul Thorn and Billy Maddox	"I've spent some time lately working my way through *The Dawn of Everything: A New History of Humanity*, by Davids Graeber and Wengrow. It's a fascinating book, and a really rewarding read, but it's also a serious tome, clocking in at over 500 pages of text dense with facts and ideas, so it's not something I've been attempting all at one go. 
 
 Anyway, as I was reading the latest chapter last night I came across this surprising observation:
 
@@ -1667,7 +1667,7 @@ But I laughed out loud when I read this passage, and immediately turned to my wi
 Now I'll happily continue reading *The Dawn of Everything*, and am sure I'll get more out of it, but this morning I can't help but marvel that I had to get to page 279 of that thick book in order to come across a truth that Paul Thorn had revealed to me in four and a half minutes, with meter and rhyme melody thrown in as part of the bargain. 
 
 The Lexicon of Song indeed!"
-2	song	songs	If I Had a Boat		Lyle Lovett	"This has always been my favorite Lyle Lovett recording. 
+2	song	songs	If I Had a Boat	2022-08-21 10:48:14 -0700	Lyle Lovett	"This has always been my favorite Lyle Lovett recording. 
 
 The singer starts with the chorus, which is then repeated after each verse. Both musically and lyrically, it starts out as a simple children's song, with gentle, bright finger-picking on the guitar. 
 
@@ -1732,7 +1732,7 @@ See also this analysis of the song from *[The Middle Spaces][ms]* blog.
 [pontiac]: http://www.amazon.com/gp/product/B000002PG7/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000002PG7&linkCode=as2&tag=reasontorock-20&linkId=PYLOPIHT5O2OR4NQ
 
 [sa]:  http://en.wikipedia.org/wiki/Still_Alice"
-2	song	songs	It's About Time		Dennis Wilson, Bob Burchman and Alan Jardine	"This is a great recording by The Beach Boys. 
+2	song	songs	It's About Time	2022-09-05 10:14:42 -0700	Dennis Wilson, Bob Burchman and Alan Jardine	"This is a great recording by The Beach Boys. 
 
 Let’s start with a pass through the lyrics.
 
@@ -1893,7 +1893,7 @@ And the whole recording achieves an artistic effect that far transcends
 traditional elements of a song.
 
 *Originally published at [ReasonToRock.com](https://www.reasontorock.com/tracks/its_about_time.html).*"
-2	song	songs	King Harvest (Has Surely Come)		Robbie Robertson	"This is a great recording by The Band, co-produced by John Simon. 
+2	song	songs	King Harvest (Has Surely Come)	2022-09-06 11:52:16 -0700	Robbie Robertson	"This is a great recording by The Band, co-produced by John Simon. 
 
 Let’s start by reviewing the lyrics, which are central to the recording.
 
@@ -2046,7 +2046,7 @@ playing a deliberate part in the overall effect.
 [#Bowman:2000a]: Rob Bowman. *Music from Big Pink* liner notes.  Capitol, 2000.
 
 [#Bowman:2000b]: Rob Bowman. *The Band* liner notes.  Capitol, 2000."
-2	song	songs	The Last Trip to Tulsa		Neil Young	"This song has been on my mind a lot lately, so I decided to research and write about it. 
+2	song	songs	The Last Trip to Tulsa	2022-09-10 17:32:36 -0700	Neil Young	"This song has been on my mind a lot lately, so I decided to research and write about it. 
 
 It's certainly an outlier in the Neil Young songbook. It closed out Young's first, self-titled, solo album, with a running time of close to ten minutes. This was an album my friends and I pretty much wore out in our dorm rooms, listening to it when it first came out, so I've been familiar with it for a long time. 
 
@@ -2191,7 +2191,7 @@ The song seems as relevant today as it was in 1969, with Spotify being the lates
 The players and platforms and technologies change, but the art endures. 
 
 Which, after all, seems the message of Neil's song."
-2	song	songs	Late For The Sky		Jackson Browne	"Unlike most other posts in the *Lexicon of Song*, this one covers an entire album, and not just a single song. 
+2	song	songs	Late For The Sky	2022-09-19 13:37:58 -0700	Jackson Browne	"Unlike most other posts in the *Lexicon of Song*, this one covers an entire album, and not just a single song. 
 
 I count this 1974 album from Jackson Browne as one of the greatest artistic achievements in the history of rock music. 
 
@@ -2886,7 +2886,7 @@ I think Springsteen got it right when he referred to this album as a ""masterpie
 This album is a touchstone for me. A framed print of Bob Seidemann's cover art hangs in my living room. I have many songs I love, many recordings of those songs, many albums. And I return to these, not just out of familiarity, or to use as background music, but because they provide me with a deep sense of meaning about the life I have lived, the life I am still living, and the lives of those around me. But even among these pieces of art, this album stands out for me, as the most unified and coherent and meaningful album in my collection.
 
 I hope you find as much joy and meaning in it as I do."
-2	song	songs	Like A Rolling Stone		Bob Dylan	"> I have the audacity to play “Like A Rolling Stone” in my show, just
+2	song	songs	Like A Rolling Stone	2022-08-19 13:59:51 -0700	Bob Dylan	"> I have the audacity to play “Like A Rolling Stone” in my show, just
 > about every night. I did it as a lark, to show off to some of the guys
 > in my band that I knew all the words. But I was immediately struck by
 > the audience response to the song. From six-year-olds to
@@ -3449,7 +3449,7 @@ ability to make and appreciate art.
 [#Dylan:2004]: Bob Dylan. *Chronicles: Volume One*. Simon & Schuster, 2004.
 
 [#Marcus:2005]: Greil Marcus. *Like A Rolling Stone: Bob Dylan at the Crossroads*. Faber & Faber, 2005."
-2	song	songs	Long Black Veil		Danny Dill and Marijohn Wilkin	"My earliest memory of this song is hearing it on the first album by The Band, *Music from Big Pink*, back in 1968. I understood then that this was the one song on the album that was written neither by members of The Band nor by Bob Dylan, but didn't know much else about it at the time. 
+2	song	songs	Long Black Veil	2022-08-11 14:28:20 -0700	Danny Dill and Marijohn Wilkin	"My earliest memory of this song is hearing it on the first album by The Band, *Music from Big Pink*, back in 1968. I understood then that this was the one song on the album that was written neither by members of The Band nor by Bob Dylan, but didn't know much else about it at the time. 
 
 Then, a few years later, I discovered that it was one of the few songs that my father and I both knew, and could play together on our guitars. Turned out he had probably heard it as recorded by The Country Gentlemen on their 1960 album, *Country Songs Old & New*, or had simply heard this same group perform the song at one of their many shows at the Crossroads, outside of DC, a venue my dad was known to have frequented. 
 
@@ -3572,7 +3572,7 @@ And it is a song that attempts to offer meaningful answers to this question that
 Is it any wonder that the song has been passed on from one singer to another so continuously, and that it continues to hold meaning for those who sing it, and those who hear?
 
 It's a beautiful classic, and deserves to be sung wherever there are humans who remember, and humans to listen."
-2	song	songs	Quiet About It		Jesse Winchester	"In this recording, Winchester shows just how much distance can be
+2	song	songs	Quiet About It	2022-09-03 16:39:36 -0700	Jesse Winchester	"In this recording, Winchester shows just how much distance can be
 covered in a song that clocks in at less than two and a half
 minutes.
 
@@ -3651,7 +3651,7 @@ Plague](http://en.wikipedia.org/wiki/The_Plague).
 Quite an accomplishment for just under two and a half minutes.
 
 *Originally published at [ReasonToRock.com](https://www.reasontorock.com/tracks/quiet_about_it.html)*"
-2	song	songs	Rain		John Lennon and Paul McCartney	"> I don’t think “Rain” was just John’s. We sat down and wrote it
+2	song	songs	Rain	2022-08-21 10:34:54 -0700	John Lennon and Paul McCartney	"> I don’t think “Rain” was just John’s. We sat down and wrote it
 > together. It was John’s vocal and John’s feel on the song, but what
 > gave it its character was collaboration.
 
@@ -3811,7 +3811,7 @@ remained focused on what had originally brought them together: a love
 for this new kind of music, and a desire to create more of it.
 
 [#Beatles:2000]: The Beatles. *The Beatles Anthology*. Chronicle Books 2000."
-2	song	songs	Rosalita (Come Out Tonight)		Bruce Springsteen	"> One of the great rock’n roll performances, and as close to a perfect
+2	song	songs	Rosalita (Come Out Tonight)	2022-09-08 09:20:00 -0700	Bruce Springsteen	"> One of the great rock’n roll performances, and as close to a perfect
 > song as anyone’s ever recorded.
 
 — George P Pelecanos, *Uncut* magazine, 2003 [][#Pelecanos:2003]  
@@ -4067,7 +4067,7 @@ This is rock music at its best.
 [#Pelecanos:2003]: Pelecanos, George P. Apr. 2003. ""Thunder Road"". *Uncut*. London: IPC Media.
 
 [#T-T:2003]: T-T, Chris. Apr. 2003. ""Thunder Road"". *Uncut*. London: IPC Media."
-2	song	songs	School Day		Chuck Berry	"In this song, Berry recounts the events of a typical day in school. The
+2	song	songs	School Day	2022-08-22 11:01:04 -0700	Chuck Berry	"In this song, Berry recounts the events of a typical day in school. The
 first verse gets the protagonist out of bed and into class, and manages
 to summarize the tension of working for good grades and competing with
 peers.
@@ -4237,7 +4237,7 @@ belonging to a particular individual.
 
 As Berry said in another song: “Roll over, Beethoven, and tell
 Tchaikovsky the news!”"
-2	song	songs	Settin' the Woods on Fire		Fred Rose and Ed G. Nelson	"A couple of things that happened recently got me cogitating on the idea of language as playground. 
+2	song	songs	Settin' the Woods on Fire	2022-08-11 13:48:16 -0700	Fred Rose and Ed G. Nelson	"A couple of things that happened recently got me cogitating on the idea of language as playground. 
 
 First, I had a chance to hear [Anne Curzan](https://acurzan.english.lsa.umich.edu) speak. Curzan is the talented and engaging dean of the College of Literature, Science and the Arts at the University of Michigan (my alma mater), and is also a linguist who studies the history of the English language. Her bio states that she ""aims to promote a culture based in purpose and contributing to the common good, the power of learning, *the value of play* [emphasis mine], and the importance of well-being.""
 
@@ -4346,7 +4346,7 @@ We humans have been playing with language ever since we contrived ways of speaki
 Why stop now?
 
 The worst that can happen is that we'll have a little fun."
-2	song	songs	Shady Grove		Traditional	"This is a traditional Appalachian folk song believed to have originated in eastern Kentucky around the beginning of the 20th century. 
+2	song	songs	Shady Grove	2022-10-06 14:15:00 -0700	Traditional	"This is a traditional Appalachian folk song believed to have originated in eastern Kentucky around the beginning of the 20th century. 
 
 The melody seems to have come from the ballad ""Matty Groves,"" and probably started out in England or Scotland. 
 
@@ -4460,7 +4460,7 @@ Then there's this last verse which, when present, seems to always come at the en
 There are many worthy renditions of the song, almost all of them with something special to offer the listener.
 
 The recording I'm featuring here is one from [Masontown](http://www.masontownmusic.com) that I particularly enjoy."
-2	song	songs	Stringing Me Along		Jess Chambers	"This song by Jess Chambers won the ""Best New Zealand Country Song"" award in 2009 so, even though Jess is my niece, I have no reservations in recommending it. 
+2	song	songs	Stringing Me Along	2022-09-01 14:04:39 -0700	Jess Chambers	"This song by Jess Chambers won the ""Best New Zealand Country Song"" award in 2009 so, even though Jess is my niece, I have no reservations in recommending it. 
 
 I don't know that Jess would ever describe herself as a country singer, but she certainly had a chance to hear some country tunes while growing up in Southern California close to her American grandfather. 
 
@@ -4527,7 +4527,7 @@ The recording, as part of the Woolshed sessions, is a perfect match for the song
 I love the video as well: a combination of still pictures taken of Jess and the rest of the musicians during the sessions. Like the backup singers, these pictures frame the singer's story inside the larger story of the singer's telling of the tale, and put some distance between the subject of the song and the singer's current emotional state.
   
 All in all, I find the whole thing an irresistible little package."
-2	song	songs	Sympathy For The Devil		Keith Richards and Mick Jagger	"The first thing to be said about this track is how utterly different it
+2	song	songs	Sympathy For The Devil	2022-09-07 11:03:57 -0700	Keith Richards and Mick Jagger	"The first thing to be said about this track is how utterly different it
 is from most rock songs. In a field where compositions are most often
 about sexual or romantic relationships, with a significant minority
 about the music itself, or about philosophy, we have here… a
@@ -4673,7 +4673,7 @@ certainly serves a higher aesthetic purpose.
 All in all, this is a brilliant, unique track.
 
 [#Di Perna:2002]: Di Perna, Alan. Oct. 2002. ""Heart of Stone"". *Guitar World*. New York: Stanley R. Harris."
-2	song	songs	Train to Birmingham		John Hiatt	"Southerner Thomas Wolfe, in his book *[You Can't Go Home Again](https://en.wikipedia.org/wiki/You_Can%27t_Go_Home_Again)*, had his main character  speak these words:
+2	song	songs	Train to Birmingham	2023-02-03 14:08:38 -0800	John Hiatt	"Southerner Thomas Wolfe, in his book *[You Can't Go Home Again](https://en.wikipedia.org/wiki/You_Can%27t_Go_Home_Again)*, had his main character  speak these words:
 
 > You can't go back home to your family, back home to your childhood ... back home to a young man's dreams of glory and of fame ... back home to places in the country, back home to the old forms and systems of things which once seemed everlasting, but which are changing all the time – back home to the escapes of Time and Memory.
 
@@ -4776,7 +4776,7 @@ So naturally I had to go back and give it a bit more of my attention.
 And discovered a thing of profound beauty that I had not previously recognized as such. 
 
 May I always have such days."
-2	song	songs	Turn the Page		Bob Seger	"The recording begins with a smoky, haunting figure played by Alto Reed on
+2	song	songs	Turn the Page	2022-09-09 09:50:55 -0700	Bob Seger	"The recording begins with a smoky, haunting figure played by Alto Reed on
 saxophone. Cymbals shimmer in the background, and Seger frames the
 chords on electric piano.
 
@@ -4929,7 +4929,7 @@ the subject of the song, and the start of his prominence as a national
 figure.
 
 *Originally published at [ReasonToRock.com](https://www.reasontorock.com/tracks/turn_the_page.html).*"
-2	song	songs	The Village Green Preservation Society		Ray Davies	"This is a rather amazing song by The Kinks, first released in 1968.
+2	song	songs	The Village Green Preservation Society	2023-06-07 15:16:06 -0700	Ray Davies	"This is a rather amazing song by The Kinks, first released in 1968.
 
 I loved this song from the moment I first heard it, but my appreciation for it has only grown over the years. 
 
@@ -5019,7 +5019,7 @@ What more, indeed, can we ask an artist to do?
 [reason]: https://amzn.to/2NW369m
 
 [totc]: https://en.wikipedia.org/wiki/Tragedy_of_the_commons"
-2	song	songs	The Weight		Robbie Robertson	"I recently came across the Playing for Change [Song Around the World video](https://youtu.be/ph1GU1qQ1zQ) of Robbie Robertson's composition ""The Weight,"" and it made me want to think -- and write! -- more deeply about how this song works, and what it means, and the timeless nature of its appeal. 
+2	song	songs	The Weight	2022-08-21 10:48:45 -0700	Robbie Robertson	"I recently came across the Playing for Change [Song Around the World video](https://youtu.be/ph1GU1qQ1zQ) of Robbie Robertson's composition ""The Weight,"" and it made me want to think -- and write! -- more deeply about how this song works, and what it means, and the timeless nature of its appeal. 
 
 Let's just read the lyrics through first (and listen to the music), and then talk about it. 
 
@@ -5124,7 +5124,7 @@ May we all know such kith and kin.
 [video]: https://youtu.be/ph1GU1qQ1zQ
 [nextofkin]: https://theband.hiof.no/band_pictures/next_of_kin_tr.html
 [wabash]: https://en.wikipedia.org/wiki/Wabash_Cannonball"
-2	song	songs	Whenever Kindness Fails		Robert Earl Keen	"I've been thinking a lot lately about this song by [Robert Earl Keen](https://www.robertearlkeen.com), first recorded by [Joe Ely](http://www.ely.com) for his *Love and Danger* album, released in 1992. 
+2	song	songs	Whenever Kindness Fails	2022-11-17 17:15:25 -0800	Robert Earl Keen	"I've been thinking a lot lately about this song by [Robert Earl Keen](https://www.robertearlkeen.com), first recorded by [Joe Ely](http://www.ely.com) for his *Love and Danger* album, released in 1992. 
 
 It is -- be advised -- a *difficult* song, in that the narrator talks about shooting and killing people, and tries to justify his actions.  
 
@@ -5260,7 +5260,7 @@ Of course I could remind myself of the importance of kindness by rereading the r
 Or I could listen once again to this four-minute gem from Robert Earl Keen, which reminds me, in no uncertain terms, that kindness is a necessary part of the social glue that binds us all together, and that humiliation and contempt and disdain have no place in human relationships, at any scale.
 
  It's a reminder we can't hear too often."
-2	song	songs	White Room		Jack Bruce and Pete Brown	"This song was a huge hit single for Cream, off their *Wheels of Fire*
+2	song	songs	White Room	2022-08-30 09:03:28 -0700	Jack Bruce and Pete Brown	"This song was a huge hit single for Cream, off their *Wheels of Fire*
 album. Lyricist Pete Brown says of the track, ""It was a miracle it
 worked, considering it was me writing a monologue about a new flat"" [][#Sandford:1999]. Let’s take a
 look at the words Brown wrote about his new accommodations.
@@ -5422,7 +5422,7 @@ to offer. Lyrics, vocals, music and instrumental parts all work together
 to produce a complex, unified, unique effect.
 
 [#Sandford:1999]: Sandford, Christopher. 1999. *Clapton : Edge of Darkness*, Rev. Ed.. New York: Da Capo Press."
-2	song	songs	Will the Circle be Unbroken		A.P. Carter	"I first heard this song as the title track on the monumental 1972 album by the Nitty Gritty Dirt Band, which they recorded with a number of country music greats who were still alive at the time.
+2	song	songs	Will the Circle be Unbroken	2022-08-21 12:38:33 -0700	A.P. Carter	"I first heard this song as the title track on the monumental 1972 album by the Nitty Gritty Dirt Band, which they recorded with a number of country music greats who were still alive at the time.
 
 This song is usually recorded under the title of ""Will the Circle be Unbroken,"" but it's also known by the name ""[Can the Circle be Unbroken][wp]."" The song was the result of a reworking by [A.P. Carter][ap] of the hymn ""[Will the Circle be Unbroken?][wp2]."" The song was first released in 1935, on a single by the [Carter Family][cf]. 
 
