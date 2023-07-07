@@ -1,0 +1,44 @@
+<?output "../../web/latest.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>Latest Additions | Portable Wisdom</title>
+	<meta name="description" content="Latest Additions to the Portable Wisdom site" />
+<?include "../includes/head-links.html" ?>
+</head>
+<body>
+
+<?include "../includes/header.html" ?>
+
+<?include "../includes/nav-menu.html" ?>
+
+	<main>
+
+		<h1>Latest Additions</h1>
+		
+		<ul>
+<?set count = 0 ?>
+<?nextrec?>
+<?set count += 1 ?>
+<?if =$count$= lt 21 ?>
+			<li>
+				<a href="=$folder$=/=$title&f$=.html">
+<?if =$type$= eq "element" ?>
+					=$title$= - <em>model element</em>
+<?else?>
+					=$title$= - <em>=$type$=</em>
+<?endif?>
+				</a>
+			</li>
+<?endif?>
+<?loop?>
+		</ul>
+
+	</main>
+
+<?include "../includes/footer.html" ?>
+
+</body>
+</html>

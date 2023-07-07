@@ -8,9 +8,11 @@ Sort Parm: 4
 
 Sort Descending: false
 
+Sort Blank Dates Last: true
+
 Other Fields Allowed: false
 
-Last Index Selected: 347
+Last Index Selected: 0
 
 Mirror Auto Index: false
 
@@ -36,5 +38,5 @@ Hash Tags: false
 
 Window Numbers: 1214.0;163.0;1253.0;1052.0;500.0;
 
-Column Widths: title: 200, 445, 1500; author: 100, 200, 1000; datemod: 100, 180, 250; seq: 30, 80, 250; tags: 50, 100, 1200; x: 12, 20, 50; date: 80, 120, 500; dateadded: 100, 180, 250; klass: 60, 80, 150; statusdigit: 20, 30, 50; rank: 50, 80, 250; 
+Column Widths: dateadded: 100, 180, 1500; seq: 30, 80, 250; date: 80, 120, 500; datemod: 100, 180, 250; x: 12, 20, 50; title: 200, 445, 1500; statusdigit: 20, 30, 50; klass: 60, 80, 150; rank: 50, 80, 250; tags: 50, 100, 1200; author: 100, 200, 1500; 
 

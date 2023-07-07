@@ -42,6 +42,7 @@ art	art.html	3	quotes	More Popular than Jesus	John Lennon
 art	art.html	3	quotes	The Mysterious	Albert Einstein
 art	art.html	3	quotes	Myth-Makers	Kurt Vonnegut
 art	art.html	3	quotes	Myths are stronger than anyone could have imagined	Yuval Noah Harari
+art	art.html	3	quotes	Nature transcends our tendencies to label and classify	Rick Rubin
 art	art.html	3	quotes	Never Knew Cocaine to Improve Anything	Joe Boyd
 art	art.html	3	quotes	Notation not to be confused with music itself	Winthrop Sargeant
 art	art.html	3	quotes	The only sensible procedure for a critic	W. H. Auden

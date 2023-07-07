@@ -1,5 +1,5 @@
 <?output "../meta/models.txt"?>
 Seq	Type	Folder	Title	Date Added	Author	Content
 <?nextrec?>
-1	model	models	=$title$=	=$date-added$=	=$author$=	=$body&q$=
+1	=$entry-type$=	models	=$title$=	=$date-added$=	=$author$=	=$body&q$=
 <?loop?>

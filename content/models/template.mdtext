@@ -6,9 +6,9 @@ Tags: <tags>
 
 Seq: <seq: x|n.|n> 
 
-Level: <level: 1 - Model; 2 - Element; 3 - Item; > 
+Level: <level: 1 - Title Page; 2 - Model; 3 - Element; 4 - Item; > 
 
-Entry Type: <class:  element, item, model > 
+Entry Type: <class:  element, item, model, title-page > 
 
 Index: <index> 
 

@@ -1,105 +1,112 @@
 let searchMeta = [
 	{
 		title: "Analysis",
-		type: "model",
+		type: "element",
     url: "models/analysis.html",
 	  author: "",
 		content: "For improvement efforts conducted by humans, an analysis step must be introduced. Such an analysis would consider the desired [[functions]] to be performed, the associated [[performance measures]], alternative ways of performing those functions, and trade-offs between those alternatives.  "
 	},
 	{
+		title: "Archaic Level of Development",
+		type: "element",
+    url: "models/archaic-level-of-development.html",
+	  author: "",
+		content: "This is really a pre-social level, prior to the introduction of any sort of society at all.   At this level, humans:  + are focused solely on immediate survival needs;  + have a minimal sense of self;  + exhibit behavior based on natural instincts and reflexes;  + are concerned only for the physical self and physical environment; + possess nothing that we would recognize as society or culture.   We may think of this first level as hopelessly primitive, but it's important to include it, because all of us are still motivated by basic survival instincts: fight or flight, hunger, thirst, lust, avoidance of pain and physical danger, and so on. Some social structures can override these basic instincts -- as when a soldier goes to war to protect his or her country -- but these basic survival motivations are all still present, and so must be kept in mind and accounted for.  It's important to note, though, that a human being motivated only by these basic instincts is generally categorized as a sociopath, and for good reason. So while this level is a necessary starting point, nothing here offers table stakes to get you into the game called humanity."
+	},
+	{
 		title: "Autonomy",
-		type: "model",
+		type: "element",
     url: "models/autonomy.html",
 	  author: "",
 		content: "*Autonomy* can be thought of as the desire to direct our own lives -- including the work that we perform as part of a group. "
 	},
 	{
 		title: "Autonomy - SDT",
-		type: "model",
+		type: "element",
     url: "models/autonomy-sdt.html",
 	  author: "",
 		content: "People need to feel essential control of their own behaviors and goals; however this does not mean being entirely independent of others.   Notice the similarity to [[Autonomy]] and [[Local Autonomy]]."
 	},
 	{
 		title: "Change",
-		type: "model",
+		type: "element",
     url: "models/change.html",
 	  author: "",
 		content: "In order to improve a [[type of thing]], we must make some change to it.   In other words, we must introduce some variation.   This will generally consist of some change to the [[type design]] of the thing.  Note that a change can be accidental and made at random (as is the case with biological evolution), or it can be made based on some [[analysis]], with some forethought and anticipation of the consequences (as is generally the case with human design)."
 	},
 	{
 		title: "Change Disposition",
-		type: "model",
+		type: "element",
     url: "models/change-disposition.html",
 	  author: "",
 		content: "The results of the [[competition]] will generally result in a [[change]] disposition: a decision to either retain the change as an improvement, or to reject it.  "
 	},
 	{
 		title: "Change Incorporation",
-		type: "model",
+		type: "element",
     url: "models/change-incorporation.html",
 	  author: "",
 		content: "If the [[Change Disposition]] has resulted in acceptance of the [[change]] as an improvement, then the [[type design]] used for [[production]] of additional units will generally be modified to incorporate the change. "
 	},
 	{
 		title: "Chaotic Situations",
-		type: "model",
+		type: "element",
     url: "models/chaotic-situations.html",
 	  author: "",
 		content: "In Chaotic situations, the appropriate approach is to Act, Sense and then Respond, learning and adjusting as you go.   In other words, something unexpected has happened, you are in crisis mode,  and there is no opportunity for analysis or experimentation -- immediate action is necessary."
 	},
 	{
 		title: "Clear Situations",
-		type: "model",
+		type: "element",
     url: "models/clear-situations.html",
 	  author: "",
 		content: "In Clear situations, the appropriate approach is to Sense, Categorize and then Respond, making use of an established best practice.   In other words, a mechanical or proceduralized response is most appropriate."
 	},
 	{
 		title: "Competence",
-		type: "model",
+		type: "element",
     url: "models/competence.html",
 	  author: "",
 		content: "People need to feel their ability to control the outcome of tasks and to experience a sense of mastery.    Note the similarity to [[Mastery]]."
 	},
 	{
 		title: "Competition",
-		type: "model",
+		type: "element",
     url: "models/competition.html",
 	  author: "",
 		content: "In order to determine whether some [[change]] has improved the [[performance]] of a [[type of thing]], some form of competition must take place.   This can be competition between a new version of a thing and an older version, using some sort of reliable [[performance]] measures.   Or it can be competition between new versions and old versions performed in, or on, the field.   For biological entities, performance is often measured by comparing the relative quantities of instances of the new design (population sizes) to comparable numbers for the old design. If the new design crowds out the old, then it has won the competition.   Something similar occurs in competition between companies and products in a market economy.   In sports, such testing is ultimately performed on the playing field, as individuals and groups compete with each other.  In science and engineering, such competition often takes place in a lab, and is referred to as testing."
 	},
 	{
 		title: "Complex Situations",
-		type: "model",
+		type: "element",
     url: "models/complex-situations.html",
 	  author: "",
 		content: "In Complex situations, the recommended approach is to Probe, Sense and then Respond, allowing new knowledge to emerge.   In other words,  analysis based on existing knowledge is not enough, and some experimentation is called for."
 	},
 	{
 		title: "Complicated Situations",
-		type: "model",
+		type: "element",
     url: "models/complicated-situations.html",
 	  author: "",
 		content: "In Complicated situations, the appropriate approach is to Sense, Analyze and then Respond, making use of expert knowledge.   In  other words, some serious analysis is required, and the right answer cannot simply be selected from a number of predetermined choices."
 	},
 	{
 		title: "Composition",
-		type: "model",
+		type: "element",
     url: "models/composition.html",
 	  author: "",
 		content: "One form of cooperation happens when a larger type of thing is composed of a number of smaller types of things. These could be atoms within a molecule, cells in an organism, states in a nation, departments in a company, or individual humans within a team.   In all of these cases, some function is achieved or improved through joint cooperative composition.  In this sort of composition, the component pieces generally exhibit some degree of specialization."
 	},
 	{
 		title: "Consider Relationships to Others",
-		type: "model",
+		type: "element",
     url: "models/consider-relationships-to-others.html",
 	  author: "",
 		content: "When improving one [[type of thing]], relationships to others often come into play.  "
 	},
 	{
 		title: "Cooperation",
-		type: "model",
+		type: "element",
     url: "models/cooperation.html",
 	  author: "",
 		content: "Some types of things often work out cooperative arrangements with other types of things, for their mutual benefit. The output from one type of thing, for example, might provide the input to some other type. "
@@ -120,42 +127,49 @@ let searchMeta = [
 	},
 	{
 		title: "Define the Thing's Function",
-		type: "model",
+		type: "element",
     url: "models/define-the-things-function.html",
 	  author: "",
 		content: "A [[type of thing]] must have some function that it performs within a particular [[operating environment]].   That is, it must use some inputs and produce some outputs.   Some outputs we can identify as useful (in some sense), while others may be categorized as waste, and others may be damaging or destructive.   Often, amounts of these inputs and outputs can be quantified.   In order to improve something, we generally want to minimize the inputs required, minimize the waste and damaging output, and maximize the useful output."
 	},
 	{
 		title: "Define the Thing's Operating Environment",
-		type: "model",
+		type: "element",
     url: "models/define-the-things-operating-environment.html",
 	  author: "",
 		content: "We must make assumptions/stipulations about a type of thing's operating environment in order to improve its [[function]].   If an operating environment varies significantly from these assumptions, then the type of thing may no longer [[perform]] as desired."
 	},
 	{
 		title: "Determine Performance Measures",
-		type: "model",
+		type: "element",
     url: "models/determine-performance-measures.html",
 	  author: "",
 		content: "We can think of performance as a way of measuring how well a type of thing fulfills its [[function]].   For living things, performance is typically measured by population size over time.  Performance measures must generally consider both inputs and outputs."
 	},
 	{
+		title: "Developmental Levels",
+		type: "element",
+    url: "models/developmental-levels.html",
+	  author: "Ken Wilber",
+		content: "A number of authors and systems of thought espouse one or another series of developmental levels, in fields of study as diverse as psychology, sociology, economics and organizational development. [Ken Wilber][wilber] was the first author I encountered who proposed an integration of these various developmental progressions into a single unifying scheme. However, much of Ken's take  on these levels was heavily influenced by the [Spiral Dynamics][spiral] work done by [Clare W. Graves][graves], [Don Beck][beck] and Chris Cowan. (And Hanzi Freinacht provides yet another take on this stuff in his book *[The Listening Society](https://www.amazon.com/Listening-Society-Metamodern-Politics-Guides/dp/8799973901)*.)  So what do we mean by a level of development, in this context?  Here's where it gets a little tricky.   Both in terms of individual development, and in terms of sociocultural development, these levels seem to emerge in a certain sequence.   However, later levels do not supersede or invalidate earlier levels. Rather than replacing previous levels, each emergent level expands the complexity and capacity of individuals and societies.   And so Wilber and Beck and Cowan have tried to use colors to identify the levels, rather than numbers, in order to avoid giving the impression that later levels are somehow superior to earlier levels.  At some point along the line, though, Ken Wilber and the Integral crew decided it was important to change some of the colors. I've listed both the original Spiral Dynamics colors and the newer Integral colors in the table below, but in general I will stick with the original colors from Beck and Cowan.   Also, there has been a later tendency to add new, higher, levels to the upper end of this range. I've not been able to make much sense of these, myself, so I'm omitting them here.   As we go through these levels we can make use of [[The Four Quadrants]] model to see that each level has a particular subjective, or intersubjective viewpoint, as well as typical social structures that can be identified from an interobjective perspective.  There's a certain chicken and the egg sort of dilemma we face when trying to disentangle the objective social aspects of a level from its subjective aspects but, for me, it feels more natural to consider the objective social aspects first, so I'll proceed in that manner.  Also, it's worth noting that, as we proceed through the levels, they tend to alternate between an assertion of individual power (archaic, tribal, modern, integral), and then a more community-based perspective (magical, traditional, postmodern, holistic).   Here's a table listing all of the levels, with their associated colors. (By the way, Spiral Dynamics uses the terms \"Value Meme,\" or \"vMeme\" to refer to a level.)  [beck]: https://en.wikipedia.org/wiki/Don_Edward_Beck  [graves]: https://en.wikipedia.org/wiki/Clare_W._Graves  [spiral]: https://en.wikipedia.org/wiki/Spiral_Dynamics  [wilber]: https://en.wikipedia.org/wiki/Ken_Wilber  <table> <caption align=\"top\"> Developmental Levels </caption> <tr> <th>Number</th> <th>Name</th> <th>Characterization</th> <th>Spiral Dynamics Color</th> <th>Integral Color</th> </tr> <tr> <td>1</td> <td><a href=\"archaic-level-of-development.html\">Archaic</a> / Instinctual</td> <td>Focused solely on immediate survival needs; minimal sense of self; behavior based on natural instincts and reflexes; concern only for physical self and physical environment; nothing that we would recognize as society or culture. </td> <td class=\"beige\">Beige</td> <td class=\"infrared\">Infrared </td> </tr> <tr> <td>2</td> <td><a href=\"magical-level-of-development.html\">Magical</a> / Animistic</td> <td>Beginning to differentiate self from world, and elements of world from one another, and to intuit causal relationships, but no accurate understanding of these relationships; impulsive, possessing faith in magic and superheroes; tribal kinship bonds, ethnic tribes, ancestral stories, superstitious beliefs. </td> <td class=\"purple\">Purple </td> <td class=\"magenta\">Magenta </td> </tr> <tr> <td>3</td> <td><a href=\"tribal-level-of-development.html\">Tribal</a> / Power Gods </td> <td>Egocentric; asserting self for dominance, conquest and power; evident in feudal empires and criminal gangs; people organize themselves based on power hierarchies, with the most powerful individuals leading the weaker; might makes right. </td> <td class=\"red\">Red </td> <td class=\"red\">Red </td> </tr> <tr> <td>4</td> <td><a href=\"traditional-level-of-development.html\">Traditional</a> / Mythic Order </td> <td>People organize themselves around mythic, fundamentalist principles of truth, with groups requiring close conformity to their particular principles, but with no reliable way to make value judgments comparing one group's \"truth\" to another's; group membership now based on professed allegiance and obedience to shared principles, rather than on family ties or geography or membership in gangs; fundamental principles held to be absolute and unvarying; belief in the law and in an authoritarian hierarchy from which the law is passed down.         </td> <td class=\"blue\">Blue </td> <td class=\"amber\">Amber </td> </tr> <tr> <td>5</td> <td><a href=\"modern-level-of-development.html\">Modern</a> / Rational</td> <td>Society advances based on use of the scientific method; quantitative methods are introduced that allow people to make objective decisions about what is true and what is false; truth is determined based on the testing of a variety of hypotheses, rather than reference to an absolute authority; oriented towards achievement of results.  </td> <td class=\"orange\">Orange </td> <td class=\"orange\">Orange </td> </tr> <tr> <td>6</td> <td><a href=\"postmodern-level-of-development.html\">Postmodern</a> / Pluralistic</td> <td>Egalitarian; relativistic; situational; accepting of fluid affiliations; acknowledges that there are multiple, valid ways of perceiving reality, and tries to accept all people and life forms by placing value on diversity; may be seen as a means of accommodating multiple tribes, gangs and mythic orders within a single, overarching social order; consensus-based decision-making.   </td> <td class=\"green\">Green </td> <td class=\"green\">Green </td> </tr> <tr> <td>7</td> <td><a href=\"integral-level-of-development.html\">Integral</a> / Systemic </td> <td>Sees the importance of the earlier levels, and of the developmental model as a whole; while still acknowledging the value of diversity, also recognizes the validity of healthy value hierarchies. </td> <td class=\"yellow\">Yellow </td> <td class=\"teal\">Teal </td> </tr> <tr> <td>8</td> <td><a href=\"holistic-level-of-development.html\">Holistic</a>  </td> <td>Sort of like the prior level but with a more holistic sense of the kosmos.  </td> <td class=\"turquoise\">Turquoise </td> <td class=\"turquoise\">Turquoise </td> </tr> </table>  Following are more detailed descriptions of each level."
+	},
+	{
 		title: "Differentiation",
-		type: "model",
+		type: "element",
     url: "models/differentiation.html",
 	  author: "",
 		content: "In order to achieve superior performance, some types of things become clearly different from other types of things with similar functions, often by adopting different strategies. For example, some species produce great numbers of offspring that suffer relatively high mortality rates, while other species produce smaller numbers of offspring that have lower mortality rates. In a similar way, different companies seek to differentiate themselves from their competitors in important ways. For example, one company might produce less costly products with less distinctive design traits, while another company might produce more expensive products with more distinctive designs.  "
 	},
 	{
 		title: "Fair and Inclusive Decision-Making",
-		type: "model",
+		type: "element",
     url: "models/fair-and-inclusive-decision-making.html",
 	  author: "",
 		content: "Everyone gets a chance to participate in decision-making, and decisions are made in a way recognized by all to be fair. Also, decisions are made at the lowest possible level, both to confer a sense of empowerment, but also to allow decisions to be made based on local circumstances best known and appreciated by the lower-level group. "
 	},
 	{
 		title: "Fast and Fair Conflict Resolution",
-		type: "model",
+		type: "element",
     url: "models/fast-and-fair-conflict-resolution.html",
 	  author: "",
 		content: "When conflicts arise, teams must have a way to resolve them quickly and in a manner seen as fair. "
@@ -169,10 +183,24 @@ let searchMeta = [
 	},
 	{
 		title: "Graduated Sanctions",
-		type: "model",
+		type: "element",
     url: "models/graduated-sanctions.html",
 	  author: "",
 		content: "When group norms are not followed, then sanctions should be applied, but should be done in a graduated fashion. For example, sanctions might start as friendly pressure from peers, but then may proceed to more serious consequences if negative behavior persists. "
+	},
+	{
+		title: "Holistic Level of Development",
+		type: "element",
+    url: "models/holistic-level-of-development.html",
+	  author: "",
+		content: "At this level of development humans have a more flexible, adaptive and inclusive feelings about the continuing evolution of the cosmos. "
+	},
+	{
+		title: "The Improvement Process",
+		type: "model",
+    url: "models/the-improvement-process.html",
+	  author: "",
+		content: "All living things are interested in improvement, whether it's improving ourselves, our society, our processes, our products, or our species.  But how does improvement work?  Below I've listed what seem to be the universal elements of an improvement model.   Many of these come from the process of [natural selection](https://en.wikipedia.org/wiki/Natural_selection), as employed by Darwinian evolution to improve the species.   But others are unique to improvement efforts undertaken by humans, with our abilities to perform analysis and make predictions, and are drawn from things like the [scientific method](https://en.wikipedia.org/wiki/Scientific_method), the [PDCA](https://en.wikipedia.org/wiki/PDCA) method, and the discipline of [configuration management](https://en.wikipedia.org/wiki/Configuration_management).   Not all of these will be will be applicable to every sort of improvement effort, but they are all worthy of consideration."
 	},
 	{
 		title: "Individual Objective",
@@ -189,22 +217,43 @@ let searchMeta = [
 		content: "Each of us experiences a complex inner world of sensations, emotions, thoughts and feelings.  And while others may report having similar feelings -- or very different ones -- no one else can actually experience our inner world in the same way that we can.  These inner experiences can vary from the mundane -- hunger, pain, fear -- to the sublime -- wonder, love, reverence.  The inner experiences that we have can be highly individual -- you and I may have very different inner reactions to something happening in the world around us.  And the relationships between external stimuli and our inner feelings can sometimes be obvious,  but at other times rather complex and even mysterious.  When considering the multiple perspectives we can take regarding a thing, some of these viewpoints may fairly be considered subjective.  This is not to imply that subjective views are invalid, or unworthy of consideration -- far from it.  The Individual Subjective is depicted in the upper left quadrant of the Four Quadrants diagram, and so is sometimes referred to simply as *UL*."
 	},
 	{
+		title: "Integral Level of Development",
+		type: "element",
+    url: "models/integral-level-of-development.html",
+	  author: "",
+		content: "The Integral level of development recognizes that each preceding level addresses some aspect of reality that is necessary for human development, and in fact that any one of the preceding levels may need to be activated in certain life conditions.  Unlike each of the earlier levels that tend to experience the world only through their blinkered perspective, the integral level includes and transcends prior levels, and humans operating at this level tend to have flexible, dynamic, adaptive attitudes towards the social groups in which they participate.  Humans operating at this level tend to see existing social structures as systems that can be changed, rather than inflexible constructs, and may see themselves as change agents for systems, rather than players limited to operating within existing systems."
+	},
+	{
 		title: "Local Autonomy",
-		type: "model",
+		type: "element",
     url: "models/local-autonomy.html",
 	  author: "",
 		content: "Groups must have the freedom to conduct their own affairs, without undue external interference. "
 	},
 	{
+		title: "Magical Level of Development",
+		type: "element",
+    url: "models/magical-level-of-development.html",
+	  author: "",
+		content: "At this second level, social structures begin to emerge, dominated primarily by kin relationships.  The family structure serves to conserve knowledge and property by sharing these assets among family members, and passing them down from one generation to the next.  Language starts to come into play at this level, but still limited to oral forms.   At this level of development, humans:  + are beginning to differentiate self from world; + are beginning to differentiate elements of the world from one another;  + can intuit causal relationships, but with no reliable understanding of how these work;  + tend to act on impulse; + pass down ancestral stories; + possess faith in magic and superheroes;  + have superstitious beliefs.  And while, from the lofty vantage point of later levels this magical level may still seem terribly primitive, it is vital to recognize that all of us still possess this way of seeing the world, and exercise it on a regular basis."
+	},
+	{
 		title: "Mastery",
-		type: "model",
+		type: "element",
     url: "models/mastery.html",
 	  author: "",
 		content: "*Mastery* can be thought of as the urge to get better and better at something that matters. "
 	},
 	{
+		title: "Modern Level of Development",
+		type: "element",
+    url: "models/modern-level-of-development.html",
+	  author: "",
+		content: "At this level of development, people use experimentation and peer networks to establish reliable statements of truth.   This level emphasizes the importance of what actually works over what is commonly accepted to be true.   Science and engineering, propelled by quantitative methods, emerge as dominant disciplines at this level.   This level often emphasizes the importance of new scientific discoveries and applications of technology over the dictates of traditional wisdom."
+	},
+	{
 		title: "Monitoring of Group Norms",
-		type: "model",
+		type: "element",
     url: "models/monitoring-of-group-norms.html",
 	  author: "",
 		content: "The group must have a way of monitoring the behavior of members and detecting deviations from agreed-upon norms. "
@@ -218,56 +267,63 @@ let searchMeta = [
 	},
 	{
 		title: "Pick Some Type of Thing to Improve",
-		type: "model",
+		type: "element",
     url: "models/pick-some-type-of-thing-to-improve.html",
 	  author: "",
 		content: "In order to improve something, you need to have some type of thing to improve. The thing could be a primate, a society, a note-taking application, a business, a business process, an airplane or a laptop computer. A type of thing will always have some [[function]]. "
 	},
 	{
 		title: "Polycentric Governance",
-		type: "model",
+		type: "element",
     url: "models/polycentric-governance.html",
 	  author: "",
 		content: "In large organizations that consist of multiple groups, relationships among groups must embody the same principles as the relationships among individuals within each group. This means that the core design principles defined above are scale-independent; that is, principles 1 - 7 apply to every scale of human social organization.  "
 	},
 	{
+		title: "Postmodern Level of Development",
+		type: "element",
+    url: "models/postmodern-level-of-development.html",
+	  author: "",
+		content: "This social structure brings together people with many different interests, skills and backgrounds into a shared community in which all have equal status. Diversity is actively valued as a means of improving social cohesion, and as a means of bringing to bear as many different talents and points of view as possible. In this structure, individuals are encouraged to explore and discover new and meaningful ways of connecting with one another, essentially creating emergent structure. The World Wide Web is based on this organizational system.  At this level of development, humans:  + have a heightened sensitivity to inequities; + attempt to reach consensus rather than seeking decisions from anointed leaders; + have high empathy skills; + often value emotions above cognitive reasoning; + adopt an attitude of relativism towards values and statements of truth, rather than a belief in absolute truth."
+	},
+	{
 		title: "Production",
-		type: "model",
+		type: "element",
     url: "models/production.html",
 	  author: "",
 		content: "After making [[changes]] to a [[type design]], more instances of the [[type of thing]] must be produced -- or reproduced, if you will -- in order to assess the [[performance]] of the changes.   We could think of the initial instances produced after some change to the type design as prototypes."
 	},
 	{
 		title: "Proportional Equivalence Between Benefits and Costs",
-		type: "model",
+		type: "element",
     url: "models/proportional-equivalence-between-benefits-and-costs.html",
 	  author: "",
 		content: "Group members must be fairly rewarded based on their contributions. "
 	},
 	{
 		title: "Purpose",
-		type: "model",
+		type: "element",
     url: "models/purpose.html",
 	  author: "",
 		content: "*Purpose* can be thought of as the yearning to do what we do in the service of something larger than ourselves. "
 	},
 	{
 		title: "Reciprocity",
-		type: "model",
+		type: "element",
     url: "models/reciprocity.html",
 	  author: "",
 		content: "A thing may enter into an arrangement of reciprocity with another, with the understanding that provision of some sort of benefits will be repayed in kind at some future date.  "
 	},
 	{
 		title: "Relatedness",
-		type: "model",
+		type: "element",
     url: "models/relatedness.html",
 	  author: "",
 		content: "People need to experience a sense of belonging and attachment to other people.  Notice the similarity to [[Purpose]]."
 	},
 	{
 		title: "Retention",
-		type: "model",
+		type: "element",
     url: "models/retention.html",
 	  author: "",
 		content: "[[Change]] can bring both opportunities and danger, and so our brains are finely attuned to pay special attention to things that are changing.   We also associate change with progress, and so it is easy for us to think of change as the most important element of improvement.   But this impression is deceptive. Some degree of change is essential, but the amount of change that is introduced is generally dwarfed by the numbers of characteristics that are retained without modification.   In order for things to continue to fulfill their functions, design attributes that work must largely be retained. Changing everything at once is generally a recipe for disaster. As in classic scientific experimentation, it's best to keep all of the variables constant except one."
@@ -281,7 +337,7 @@ let searchMeta = [
 	},
 	{
 		title: "Shared Identity and Purpose",
-		type: "model",
+		type: "element",
     url: "models/shared-identity-and-purpose.html",
 	  author: "",
 		content: "A group should have a strong identity with clearly defined boundaries and a unified sense of purpose. This includes a shared understanding of the team's goals, the boundaries of their resources, and the rights and obligations of being a team member. "
@@ -302,28 +358,35 @@ let searchMeta = [
 	},
 	{
 		title: "Specialization",
-		type: "model",
+		type: "element",
     url: "models/specialization.html",
 	  author: "",
 		content: "Different types of things often specialize their functions in order to achieve more fruitful cooperation.   Think of the queen bee in a hive, or the various types of cells and organs within a complex organism, or the roles within a company, or the various branches of government within a state."
 	},
 	{
-		title: "This Is How We Make Things Better",
-		type: "model",
-    url: "models/this-is-how-we-make-things-better.html",
+		title: "Traditional Level of Development",
+		type: "element",
+    url: "models/traditional-level-of-development.html",
 	  author: "",
-		content: "All living things are interested in improvement, whether it's improving ourselves, our society, our processes, our products, or our species.  But how does improvement work?  Below I've listed what seem to be the universal elements of an improvement model.   Many of these come from the process of [natural selection](https://en.wikipedia.org/wiki/Natural_selection), as employed by Darwinian evolution to improve the species.   But others are unique to improvement efforts undertaken by humans, with our abilities to perform analysis and make predictions, and are drawn from things like the [scientific method](https://en.wikipedia.org/wiki/Scientific_method), the [PDCA](https://en.wikipedia.org/wiki/PDCA) method, and the discipline of [configuration management](https://en.wikipedia.org/wiki/Configuration_management).   When working on improvement efforts, one should consider all of these."
+		content: "At this level, people organize themselves around written rules and traditions handed down from a higher authority; groups organized in this way require strict adherence to the group's rules; for members of such a group, the validity of the higher authority and the rules are fundamental and not to be questioned.   This level of development is often dominant in religious fundamentalism, and in societies with strict codes of ethics, including both professional and patriotic groups.   This level  offers increased flexibility over the tribal level, in that written rules of conduct can be applied universally, and are not dependent on access to the latest commands issued by the higher levels in a hierarchy."
+	},
+	{
+		title: "Tribal Level of Development",
+		type: "element",
+    url: "models/tribal-level-of-development.html",
+	  author: "",
+		content: "The primary form of social organization at this level is the power pyramid, a hierarchical \"command and control\" structure in which those above have power over those below, and in which the strongest rise towards the apex of the pyramid.  Written language starts to come into play at this level, as multi-level hierarchies begin to issue written commands.   At this level of development, humans:  + tend to be egocentric;  + assert themselves for dominance, conquest and power;  + have strong feelings of loyalty to their tribes and their tribal leaders; + believe that might makes right.   This level of development is the dominant one in feudal empires, criminal gangs and military organizations. But the power hierarchy is also a dominant structure in most corporations, in the executive branches of governments, as well as in some organized religions."
 	},
 	{
 		title: "Type Design",
-		type: "model",
+		type: "element",
     url: "models/type-design.html",
 	  author: "",
 		content: "In order to improve a [[type of thing]], one must have a means of reliably producing such a thing, and this usually means having the instructions needed to produce or replicate it. For biological organisms, this is the genome. For a software application, it is the source code. For an airplane, this is a large collection of design documents, such as drawings and parts lists (or 3-D models). For a nation, it is a constitution.   Note that a type design must always be specified using a known type design language."
 	},
 	{
 		title: "Type Design Language",
-		type: "model",
+		type: "element",
     url: "models/type-design-language.html",
 	  author: "",
 		content: "In order to make use of a [[type design]], there must first exist some language(s) that can be used to reliably and repeatably interpret such a set of instructions, in order to produce more instances of the [[type of thing]].  "
@@ -2574,6 +2637,13 @@ let searchMeta = [
     url: "quotes/national-parks-and-reserves.html",
 	  author: "John F. Kennedy",
 		content: "The supreme reality of our time is ... the vulnerability of our planet.   National parks and reserves are an integral aspect of intelligent use of natural resources. It is the course of wisdom to set aside an ample portion of our natural resources as national parks and reserves, thus ensuring that future generations may know the majesty of the earth as we know it today."
+	},
+	{
+		title: "Nature transcends our tendencies to label and classify",
+		type: "quote",
+    url: "quotes/nature-transcends-our-tendencies-to-label-and-classify.html",
+	  author: "Rick Rubin",
+		content: "If you're picking colors based on a Pantone book, you're limited to a certain number of choices. If you step out in nature, the palette is infinite. Each rock has such a variation of color within it, we could never find a can of paint to mimic the exact same shade.  Nature transcends our tendencies to label and classify, to reduce and limit. The natural world is unfathomably more rich, interwoven, and complicated than we are taught, and so much more mysterious and beautiful."
 	},
 	{
 		title: "Never Knew Cocaine to Improve Anything",

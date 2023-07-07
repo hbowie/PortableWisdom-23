@@ -8,15 +8,17 @@ Sort Parm: 0
 
 Sort Descending: false
 
+Sort Blank Dates Last: true
+
 Other Fields Allowed: false
 
-Last Index Selected: 2
+Last Index Selected: 1
 
 Mirror Auto Index: false
 
-Display Body Label: true
+Display Body Label: false
 
-Title Display Option: p bold
+Title Display Option: level + 1
 
 Streamlined Reading: false
 
@@ -34,7 +36,7 @@ Note File Format: nnk
 
 Hash Tags: false
 
-Window Numbers: 388.0;118.0;966.0;1063.0;304.5;
+Window Numbers: 299.0;131.0;966.0;1063.0;304.5;
 
-Column Widths: dateadded: 100, 180, 250; x: 12, 20, 50; rank: 50, 80, 250; datemod: 100, 180, 250; statusdigit: 20, 30, 50; klass: 60, 80, 150; tags: 50, 100, 1200; title: 200, 445, 1500; author: 100, 200, 1000; date: 80, 120, 500; seq: 30, 80, 250; 
+Column Widths: dateadded: 100, 180, 250; rank: 50, 80, 250; title: 200, 445, 1500; author: 100, 200, 1000; datemod: 100, 180, 250; seq: 30, 80, 250; x: 12, 20, 50; statusdigit: 20, 30, 50; klass: 60, 80, 150; date: 80, 120, 500; tags: 50, 100, 1200; 
 
